@@ -1,0 +1,47 @@
+================================================================================
+SUMMARY (for web portal text field)
+================================================================================
+
+Physics PhD with 25+ years developing algorithms and computational models for complex scientific problems. Extensive experience with Python, MATLAB, and C++ in production environments. 11 years at National Renewable Energy Laboratory (DOE) developing optimization algorithms and data analysis tools for government-funded research. Recent work includes building physics-based simulation libraries, implementing numerical methods, and creating data visualization tools using Python. Strong background in numerical optimization, statistical analysis, and uncertainty quantification. Local to Boulder area (Arvada, CO) with U.S. citizenship. Proven track record of cross-disciplinary collaboration and translating research concepts into practical software implementations.
+
+
+================================================================================
+COVER LETTER
+================================================================================
+
+Dear SciTec Hiring Team,
+
+I am writing to apply for the Staff / Sr. Staff Scientist position in Boulder. With a Physics PhD from the University of Colorado, Boulder, 11+ years at the National Renewable Energy Laboratory, and recent algorithm development experience in production software, I offer the technical expertise and government sector background your team needs.
+
+RELEVANT ALGORITHM DEVELOPMENT EXPERIENCE
+
+My career has centered on developing algorithms and computational tools for complex scientific problems. At Big Ladder Software (2023-2025), I developed physics-based simulation libraries using Python and C++ for thermodynamic modeling and optimization. I implemented numerical methods for solving coupled differential equations in real-time systems, created data analysis suites using Python (Plotly Dash), and maintained hundreds of unit tests ensuring code quality. This work required proficiency in Git-based workflows, numerical optimization, and collaborative development—all key requirements for your position.
+
+NATIONAL LABORATORY BACKGROUND
+
+I spent 11 years at the National Renewable Energy Laboratory (DOE facility in Golden, CO), where I developed algorithms for materials characterization and device optimization. I created computational models that identified optimization criteria for semiconductor structures achieving world-record photovoltaic efficiencies. I developed dynamical simulation software, implemented statistical analysis methods, and applied numerical techniques to real-world datasets. This experience with government-funded research and DOE laboratory operations provides direct insight into the national security mission focus at SciTec.
+
+MATHEMATICAL AND COMPUTATIONAL EXPERTISE
+
+My technical toolkit includes the mathematical techniques specified in your posting: numerical optimization, statistical analysis, uncertainty quantification, and machine learning (Coursera specializations completed). I am highly proficient in Python and MATLAB, with extensive C++ experience. During my faculty position at South Dakota School of Mines (2006-2021), I developed multivariate statistical analysis methods for compositional analysis, created automated data acquisition systems, and built custom software for real-time process control. As a software engineer at Maptek (2022-2023), I developed novel algorithms for optimized topographical triangulations and implemented geospatial data processing pipelines.
+
+CROSS-DISCIPLINARY COLLABORATION
+
+Throughout my career, I have worked across physics, engineering, materials science, and software development domains. I have led research teams, collaborated with subject matter experts, served as Principal Investigator on $2M+ in DOE grants, and published 100+ peer-reviewed papers. I am comfortable promoting cross-team collaboration and communicating technical concepts to diverse audiences.
+
+LOCAL PRESENCE AND CLEARANCE ELIGIBILITY
+
+I am local to the Boulder area (Arvada, CO), requiring no relocation. I hold degrees from the University of Colorado, Boulder and Colorado School of Mines, with deep roots in Colorado. I am a U.S. citizen and eligible for DoD security clearance.
+
+WHY SCITEC
+
+I am drawn to SciTec's mission-focused work supporting national security. The opportunity to develop sensor tasking algorithms and data fusion tools represents an excellent match for my background in algorithm development, data analysis, and real-time systems. I am excited to apply my decades of computational physics experience to prototype advanced algorithmic concepts in defense applications.
+
+I would welcome the opportunity to discuss how my experience developing algorithms at national laboratories and in production software environments can contribute to SciTec's mission. Thank you for your consideration.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel
+720-988-6627
+spahrenk@gmail.com
+Arvada, CO 80005

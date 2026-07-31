@@ -1,0 +1,31 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+Oklo Inc.
+Santa Clara, CA
+
+Dear Hiring Manager,
+
+I am writing to apply for the Junior Software Engineer position at Oklo. As a computational physicist with software development experience, I am interested in applying my skills to reactor design and analysis challenges.
+
+My recent work as a Computational Scientist at Big Ladder Software aligns well with your requirements. I developed thermal simulation libraries in C++ with extensive unit testing (HPWHsim library with 100+ tests), built interactive data visualization tools using Plotly Dash and Python, and created analysis pipelines for engineering applications. This experience directly relates to your needs for optimizing reactor data storage, building visualization tools, and integrating simulation software into analysis workflows.
+
+My technical qualifications include:
+- Python proficiency with NumPy, SciPy, and Pandas for computational modeling and data analysis
+- Git/GitHub for version control and collaborative development
+- Experience with unit testing, API design, and software documentation
+- Background implementing physics-based simulations and computational models
+- Development of optimization algorithms and statistical analysis tools
+
+While my Ph.D. and research background may seem unconventional for a junior role, I am specifically seeking a position focused on software development that leverages physics expertise. I work well in fast-paced environments, learn new technologies quickly, and translate complex physics into practical software solutions.
+
+My 11+ years at the National Renewable Energy Laboratory working on photovoltaic research gives me relevant experience in energy systems, and I am interested in contributing to nuclear energy technology development.
+
+I am seeking remote work and available for quarterly headquarters visits. Thank you for considering my application.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

@@ -1,0 +1,29 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+BAE Systems
+Broomfield, Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Principal Engineer – Algorithm Development position at BAE Systems in Broomfield. My background in computational physics, image and signal processing algorithm development, and scientific programming maps well to the technical demands of this role.
+
+My career has centered on developing algorithms for extracting quantitative information from complex, noisy signals — in electron-optical and X-ray imaging systems rather than remote sensing, but the underlying mathematical challenges are closely related. At the National Renewable Energy Laboratory, I developed dynamical electron-diffraction simulation software and theoretical models for image contrast, requiring numerical solutions to wave-propagation problems in spatially varying potentials. At South Dakota School of Mines, I developed PrecDiffFit and CBED_fit — nonlinear optimization tools for refining multi-parameter models against experimental diffraction data — and implemented automated image acquisition and processing workflows for a high-resolution TEM. These projects involved detection, estimation, and clutter suppression in the sense of separating weak signals of interest from strong background contributions with overlapping spatial frequencies.
+
+My technical skills align with your requirements:
+
+- Proficiency in MATLAB, Python (NumPy, SciPy), and C++ for algorithm development and implementation
+- Background in spatial, spectral, and temporal signal analysis
+- Experience developing and refactoring production scientific software with emphasis on correctness and test coverage
+- Strong written and oral communication skills, demonstrated through 100+ peer-reviewed publications, a co-authored physics textbook, and 15 years of graduate instruction and mentoring
+
+I am also an experienced mentor, having advised Ph.D. students and junior researchers throughout my academic career — consistent with the mentoring responsibilities described in this role.
+
+The Broomfield location is ideal, and I am available for on-site work. I would welcome the opportunity to discuss how my background in physics-based algorithm development translates to your mission data processing work.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

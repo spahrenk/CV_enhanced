@@ -1,0 +1,19 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627 | spahrenk@gmail.com
+
+Acuity Brands / Nexus — Illumination Engineer Lead
+
+Dear Hiring Team,
+
+I am applying for the Illumination Engineer Lead position on the Nexus team. My background is in III-V semiconductor materials for solid-state lighting — LED material development, optical characterization, and the physics connecting material structure to emission properties — and I am interested in applying that depth at the luminaire system level.
+
+As principal investigator on a $750K DOE program (DE-SC0019430), I led research developing non-equilibrium synthesis conditions for III-V alloys targeting red/amber LED emission. A central focus was understanding how atomic ordering in AlGaInP alloys — a microstructural phenomenon unique to these materials — controls the band gap and optical emission wavelength. That work led to a patent on strain-balanced AlInP quantum-well structures optimized for LED emission (US20220271194A1). For over a decade at both SDSMT and NREL, I characterized the optical properties of III-V semiconductor heterostructures using photoluminescence, electroluminescence, and reflectance spectroscopy, and correlated optical performance back to structural parameters measured by TEM and XRD. My broader background in electron optics gives me a strong quantitative foundation in how optical systems form images and how light interacts with structured materials.
+
+I have routine experience with SolidWorks, but have not worked on luminaire design outside of basic research, or used tools like Photopia, LightTools, AGI32. My strength is in the physics underlying why LED sources emit as they do, in quantitative analysis and design-of-experiments methodology, and in supporting IP development — the patent and publication record demonstrates that I know how to take novel ideas through documentation and protect them. I am a fast learner with a track record of developing new capabilities on the job.
+
+The Nexus team's emphasis on early-stage concept development, prototype testing, and correlating simulations with measurements maps well to how I have worked throughout my career. I would welcome a conversation about how my materials and optical physics background could contribute to the team.
+
+Thank you for your consideration.
+
+Scott Phillip Ahrenkiel

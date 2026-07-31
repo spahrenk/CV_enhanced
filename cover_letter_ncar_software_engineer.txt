@@ -1,0 +1,38 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+NCAR / UCAR — ACOM Laboratory
+Boulder, Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Software Engineer/Programmer III position in NCAR's Atmospheric Chemistry Observations and Modeling laboratory. My background in developing scientific data processing pipelines, production C++ libraries, and data visualization tools in collaborative research environments aligns closely with the responsibilities and required skills described in this posting.
+
+Regarding the key responsibilities: My most directly relevant work is the HPWHsim simulation library at Big Ladder Software, where I was the lead developer. The library accepts external model data (JSON), processes it through a coupled physics simulation, and produces validated higher-level output — structurally analogous to a satellite data processing pipeline. I implemented the software as an integrated component of a larger compliance calculation system, adhering to defined initiation sequences, exit codes, and data contracts. I maintained 100+ unit and function tests, wrote code with predictable failure modes to support debugging, and documented APIs and evaluation methods for the broader team. I also independently built an interactive Plotly Dash GUI that gave scientists real-time visualization of simulation outputs at timescales useful for debugging and parameter refinement.
+
+Regarding the required knowledge, skills, and abilities:
+
+Object-oriented programming language: C++ is my primary language, used across multiple production libraries (HPWHsim, ERIN, btwxt, a physical units library). I have extensive experience with build systems, makefiles, modern library integration, and legacy codebase refactoring.
+
+Scripting language: Python is my primary scripting language. I use it for data pipelines, analysis automation, and GUI development (Plotly Dash).
+
+Linux: I have developed and tested cross-platform C++ software targeting Ubuntu Linux at Big Ladder Software, and have worked in Linux environments throughout my research career. My primary development environment has been macOS, with Linux as a regular target platform.
+
+Software testing: I have designed and maintained unit and integration test suites (100+ tests in HPWHsim) and have experience designing test plans and writing code with explicit, diagnosable failure modes.
+
+Scientific data formats and metadata: I have extensive experience with HDF5, JSON, XML, and SQL for structured scientific data — including metadata annotation, format conversion, and database integration. HDF5 is closely analogous to netCDF, which I am prepared to work with directly.
+
+Graphical display of data: I have built interactive data visualization tools using Plotly Dash, and have used MATLAB, Igor Pro, and Digital Micrograph for scientific graphics throughout my career.
+
+Collaborative work with scientists: I spent 15 years as a professor and researcher at SDSMT and 11 years at NREL working closely with scientists on data acquisition, computational analysis, and research software — participating in regular team meetings and presenting results to diverse technical audiences. I have 100+ peer-reviewed publications demonstrating sustained written communication of technical work.
+
+Regarding the desired qualifications: I use Git/GitHub for all current projects. I have worked with structured scientific data pipelines throughout my career. My Ph.D. in Physics provides the scientific literacy needed to engage meaningfully with atmospheric scientists, and my background in optics, spectroscopy, and electromagnetic theory is directly relevant to radiative transfer concepts. I hold Stanford/Coursera certifications in machine learning and currently apply AI tools with the balanced, critically evaluative approach your posting describes.
+
+I am available for hybrid work in Boulder and would welcome the opportunity to contribute to ACOM's satellite data processing work.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

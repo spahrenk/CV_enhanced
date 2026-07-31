@@ -1,0 +1,144 @@
+# Scott Phillip Ahrenkiel
+**Physicist/Programmer**
+
+**Location:** Arvada, Colorado 80005
+**Phone:** 720-988-6627
+**Email:** spahrenk@gmail.com
+**LinkedIn:** www.linkedin.com/in/phil-ahrenkiel-04b5b36
+**GitHub:** github.com/orgs/eQuillTech/repositories
+
+---
+
+## Professional Summary
+
+Ph.D. Physicist with 25+ years of experience combining advanced physics research with software development. Expertise in computational modeling, scientific programming, and algorithm development. Proven track record of developing physics-based simulation libraries, data analysis tools, and visualization applications. Strong background in materials science, electron microscopy, and photovoltaics research with extensive programming experience in C++, Python, and scientific computing frameworks.
+
+---
+
+## Core Technical Skills
+
+**Programming Languages:** C++, Python, Objective C, Swift, MATLAB, LabVIEW, Igor Pro, Digital Micrograph
+**Development Tools:** VSCode, Xcode, CLion, Git/Mercurial, GitHub, JIRA
+**Scientific Computing:** NumPy, SciPy, Plotly Dash, data visualization, algorithm development
+**Machine Learning:** Completed Stanford/Coursera certifications in Machine Learning, Supervised Learning, Unsupervised Learning
+**Computational Methods:** Numerical simulation, dynamical electron diffraction, image processing, computational physics
+**Data Formats:** JSON, SQL, XML, HDF5
+**Systems:** macOS, Linux, Windows
+**Domain Expertise:** Physics simulation, materials characterization, thermal modeling, energy systems
+
+---
+
+## Professional Experience
+
+### Physicist/Programmer
+**eQuillTech, Arvada, Colorado** | *October 2025 - Present*
+
+- Develop physics-based software applications integrating computational modeling with practical engineering applications
+- Design and implement algorithms for materials science and physics simulations
+- Create open-source scientific computing tools available on GitHub
+
+### Computational Scientist
+**Big Ladder Software, Denver, Colorado** | *June 2023 - October 2025*
+
+- **Heat Pump Water Heater Simulation:** Lead developer for HPWHsim library used in California Energy Commission compliance calculations. Restructured legacy codebase with emphasis on physical rigor while maintaining 100+ unit/function tests. Implemented JSON-based data representation for external manufacturer models.
+
+- **Data Visualization & Analysis:** Independently developed interactive graphical analysis suite using Plotly Dash for simulation parameter refinement and manufacturer model validation.
+
+- **Physical Units Library:** Created header-only C++ library for physical-units agnostic API, improving code safety and readability.
+
+- **Energy Resilience Simulation:** Enhanced ERIN library with CLI interface and additional features for catastrophic analysis of large-scale installations (military bases, universities).
+
+- **Data Conversion Tools:** Developed SQL-based data extraction library for legacy Access databases (California Utility Allowance Calculator).
+
+- **Documentation & Testing:** Formalized evaluation methods and generated comprehensive documentation for C++ interpolation library (btwxt).
+
+### Software Engineer
+**Maptek, Golden, Colorado** | *April 2022 - February 2023*
+
+- Maintained and enhanced Vulcan mining software using C++ with JIRA-based review system and Mercurial version control
+- Developed novel algorithm for generating optimized topographical triangulations with variable resolution from large geo-tagged TIFF files
+- Expanded libTIFF driver to handle USGS Global Fiducials Library data
+- Created unit tests and fixed defects in production codebase
+
+### Professor (Assistant/Associate/Full)
+**South Dakota School of Mines and Technology, Rapid City, SD** | *August 2006 - July 2021*
+
+- **Software Development:** Created Digital Micrograph script manager and plug-ins for JEM-2100 transmission electron microscope, including automation tools for montaging and data archiving
+- Developed computational analysis software for precession-diffraction pattern refinement to dynamical simulations
+- Built programmable MOCVD control software with extensive hardware customization and safety protocols
+- Implemented convergent-beam electron diffraction analysis tools for composition and strain analysis
+
+- **Research Computing:** Applied computational methods to materials characterization including dynamical electron diffraction, image processing, and data analysis
+- Developed algorithms for extracting alloy compositions from energy-dispersive X-ray spectrometry data
+
+- **Graduate Education:** Developed and taught graduate courses in nanocharacterization, crystallography, nanoelectronics, and photovoltaics
+
+### Senior Scientist I / Scientist II / Postdoctoral Scientist
+**National Renewable Energy Laboratory (NREL), Golden, Colorado** | *January 1995 - July 2006*
+
+- Developed physical models of relaxation behavior in metamorphic semiconductor heterostructures for world-record efficiency photovoltaic devices
+- Created theoretical models for TEM image contrast of partially ordered structures and modulated superlattices
+- Developed dynamical electron-diffraction software for computational analysis of ordered semiconductor structures
+- Designed and constructed tunable light source instrumentation for tandem solar cell testing
+- Applied TEM tomography and computational analysis to nanoparticle characterization
+
+---
+
+## Education
+
+**Ph.D., Physics**
+University of Colorado, Boulder, Colorado | *Completed December 1995*
+Dissertation: Phase Separation and Atomic Ordering in Epitaxial Semiconductor Alloys Studied by Transmission Electron Microscopy
+
+**M.S., Physics**
+Colorado School of Mines, Golden, Colorado | *Completed December 1991*
+Thesis: Intercalation Processes in Layered Silicates and High-Tc Superconducting Oxides Studied by X-Ray Diffraction
+*Developed complete XRD data acquisition/analysis software package*
+
+**B.S., Engineering Physics**
+University of Colorado, Boulder, Colorado | *Completed December 1987*
+
+---
+
+## Selected Publications & Patents
+
+**Book:** Co-author, *Theory and Methods of Photovoltaic Material Characterization*, World Scientific, 2019
+
+**Patent Applications:**
+- Strain balanced direct bandgap aluminum indium phosphide quantum wells for light emitting diodes (US20220271194A1)
+- Method for achieving device-quality, lattice-mismatched, heteroepitaxial active layers (US20060048700A1)
+
+**Journal Publications:** 100+ peer-reviewed publications in physics, materials science, and photovoltaics (Google Scholar profile available)
+
+---
+
+## Grants Awarded
+
+- U.S. Department of Energy: $1.4M+ in competitive research grants (2007-2018)
+- National Science Foundation: $699K for TEM acquisition and training (2009)
+- NREL Director's Research Fund: $120K for nanoparticle characterization (2004)
+
+---
+
+## Professional Certifications
+
+- Machine Learning (Stanford/Coursera, 2024)
+- Supervised Machine Learning (Stanford/Coursera, 2024)
+- Unsupervised Learning (Stanford/Coursera, 2024)
+
+---
+
+## Professional Memberships
+
+- American Physical Society
+- Microscopy Society of America
+- Materials Research Society
+
+---
+
+## Additional Experience
+
+**Summer Student, CERN, Geneva, Switzerland** | *June-August 1987*
+- Installed time-projection chamber for SPS collider experiment
+- Procured and installed FASTBUS data-acquisition electronics
+- Developed test programs for electronics validation

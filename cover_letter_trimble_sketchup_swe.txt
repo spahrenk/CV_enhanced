@@ -1,0 +1,21 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627 | spahrenk@gmail.com
+
+Trimble Inc. — Software Engineer, SketchUp for Web
+
+Dear Hiring Team,
+
+I am applying for the Software Engineer position on the SketchUp for Web team. My background combines production C++ development with direct experience maintaining and extending a commercial 3D modeling application, which I believe maps well to the engine and integration work central to this role.
+
+At Maptek in Golden, I worked on Vulcan — a large-scale commercial C++ application for 3D geospatial modeling used by engineers worldwide. I implemented a novel algorithm for generating variable-resolution topographic triangulations from geo-tagged TIFF raster data, extended the libTIFF driver to handle a new data format, and contributed to bug fixes and unit tests across the codebase using JIRA-based code review. Working inside a production 3D modeling application gives me direct appreciation for the complexity of maintaining geometry engines, handling large spatial datasets, and shipping features without regressions.
+
+The C++/WebAssembly bridge architecture at the heart of SketchUp for Web is something I find technically interesting and adjacent to work I am doing now. I am developing III-V Calc, an iOS application (Swift/UIKit) with a compiled C++ computational backend — the same pattern of bridging a native engine to a user-facing application layer, just targeting a different runtime. I am also comfortable with CMake build systems from my work at Big Ladder Software, where I led development of HPWHsim, a production C++ simulation library with 100+ unit and function tests.
+
+I use AI-assisted coding tools (including Claude Code) daily and am comfortable working in collaborative engineering environments with established review workflows.
+
+I recognize the preferred stack (TypeScript, Vue.js, WebGL) is not my primary background, and I would be straightforward about that in conversation. My strongest contribution would be on the C++ engine, WebAssembly integration, and algorithm development side of the work. I am a fast learner with a track record of picking up new technology on the job.
+
+Thank you for your consideration.
+
+Scott Phillip Ahrenkiel

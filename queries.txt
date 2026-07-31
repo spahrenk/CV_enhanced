@@ -94,3 +94,143 @@ The top margin on the first page should 0.25". The heading is too far down the p
 How do I convert index.md to index.html?
 pandoc index.md -o ../CV.pdf --bibliography=pubs.bib --csl=elsev.csl --citeproc --pdf-engine=weasyprint --template=custom-template.html --css=pdf-style.css
 //Note to self- works better to print from browser
+
+My curriculum vitae is generated in this folder and posted at https://spahrenk.github.io/CV/.
+How can I turn my CV into a resume for the job posted here?: https://www.linkedin.com/jobs/view/4342512223
+
+I made some small changes. Yes, please write a cover letter.
+
+The submission form specifically requires "my resume includes the start and end dates (month and year) on each position."
+I created modified index.md with more complete start/end data information.
+(For courses, I write FA05 to represent a course taught in the Fall semester of 2005, which would span Aug 2005 - Dec 2005.)
+I renamed your file resume.md to resume_teaching.md and made some changes. Can you improve resume_teaching.md?
+
+What is the command to convert to html?
+pandoc resume_teaching.md -o resume_teaching.html -s --css=pdf-style.css --metadata title="Scott Phillip Ahrenkiel - Resume"
+
+Now I am writing a cover letter. It says "Explain why you’re the ideal fit for this role. Highlight your most relevant skills, experiences, and achievements that match the job description."
+Would you please help?
+
+Now I just need a shorter excerpt to past in the web form. How about:?
+"I have 15 years of experience delievering instruction to individual students and small groups at South Dakota School of Mines and Technology. I have often found one-on-one instruction to be particularly effective and rewarding and am excited about the opportunity to help students achieve mastery in mathematics and science through personalized, individualized teaching."
+
+Please build a resume for me called resume_se.md, based on my CV in index.md, to apply for this job:
+https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768658275807?domain=coloradowfx.gov&profile_type=candidate
+
+
+Please build a resume for this job instead:
+https://www.caci.jobs/aurora-co/research-science-senior-ai-machine-learning-research-engineer/3015CD0506C34ADDA06CAF5B42AA89F3/job/?vs=8009
+
+pandoc resume_se.md -o resume_se.html -s --css=pdf-style.css --metadata title="Scott Phillip Ahrenkiel - Resume"
+
+I want to move everything in my github organization https://github.com/SPAhrenTech into my new organization https://github.com/eQuillTech.
+Can SPAhrenTech redirect everything to eQuillTech?
+
+Please build a resume for this job using information in index.md:
+https://www.linkedin.com/jobs/view/4362983168
+
+pandoc resume_physics_ai_expert.md -o resume_physics_ai_expert.html -s --css=pdf-style.css --metadata title="Scott Phillip Ahrenkiel - Resume"
+
+I applied for this Part-Time Math and Science Teacher position: https://themomproject.com/mom/projects/math-and-science-teacher-ad8cfc3679
+I submitted this resume: resume_teaching.md
+I need to write a Standout Statement for my profile: https://themomproject.com/mom/profile?tab=why_me
+The web page says: "Stand out with your story
+Your Standout Statement serves as your personal branding statement and introduction to potential employers. Make it memorable and authentic by showcasing your unique story and strengths with brief, compelling examples, infused with your personality. This is your opportunity to distinguish yourself from other candidates! "
+Please help. Here is my CV: index.md
+
+Can you please write a resume for me for this job?
+https://apply.workable.com/coldquanta/j/E650ADE573/
+My CV is in index.md.
+
+How do I convert it to html?
+
+Can you format the .md so that it will fit on three pages as .pdf? The first page header is enormous.
+
+What is generating the header? I want to control its formatting.
+
+The format is OK now. Some of the information is not correct. Please go through my CV again and cross-check.
+
+Let's regroup the progression at NREL into a single position "Senior Scientist", to match the South Dakota School of Mines progression.
+
+Each group of bulleted items in the SDSMT section appear as a single block of text, following the block heading, separated by dashes with no line breaks.
+Can we fix that?
+
+I liked the categories you had for the SDSMT position. Please restore those, with bulleted lists for each category.
+For the NREL job we should have three categories:
+III-V Semiconductor Microstructures
+Metamorphic Heterostructure Deisgn
+Nanoparticle Characterization
+
+pandoc ./resume_infleqtion_qrf.md -f markdown -t html -s -o ./resume_infleqtion_qrf.html
+
+I changed it manually, so that both SDSMT and NREL have subcategories. I like how the bulleted lists appear as
+blocks with dashes after converting to html. (I wish they looked like that in the .md preview.) I would like the other jobs to have that same appearance, just a dash-separated block for
+each job description, no block headings. Can you do that?
+
+Please make 
+Please make each category within the job description (e.g., "Laboratory Infrastructure & Instrumentation")
+in the SDSMT and NREL sections, also looked like
+
+Can you replace the dashes (" - ") separating items within each section with m-dashes?
+
+Can you reduce the left and right margins?
+
+OK, I'm ready with the resume. Please write a cover letter for the application.
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4320889818/
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4365635180/
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4321346206
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4365153981
+Please write a "Summary" and "Cover Letter" to enter in their web portal.
+
+Can you improve this response to this question in the web portal?:
+Question:
+"Do you have experience with any of the following mathematical techniques: scheduling algorithms, numerical optimization, uncertainty quantification or statistical analysis? If yes, in what capacity?"
+
+Response:
+"I have extensive experience with N across several different software platforms. Indeed, Numerical Recipes was always close at hand during my graduate and post-graduate research. I claim a particular association with error/uncertainty analysis, and has long been one of my favorite topics to teach, in part from having been a student of John Taylor, but also because it leads to so much interesting discourse on approaches to measurement."
+
+Can you remove the extra spacing so I can copy your response to the clipboard and past it into the web portal?
+
+Please remove the extra spacing on the left.
+It's not working. Please just copy the text to the clipboard.
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4356750074,
+based on the information in index.md.
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4380160864
+based on the information in index.md.
+
+pandoc index.md -o index.html --standalone
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4382600336
+based on the information in index.md. Save the resume as .md and remind me how to convert it to .html.
+Also create a cover letter in plain text.
+
+Please tailor my resume for this job: https://job-boards.greenhouse.io/oklo/jobs/5739861004?gh_src=b55irig04us
+based on the information in index.md. Save the resume as .md and remind me how to convert it to .html.
+Also create a cover letter in plain text.
+
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4325175591
+based on info in index.md.
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4281937437
+based on info in index.md. Create the resume in .html.
+
+Please tailor my resume for this job: https://www.linkedin.com/jobs/view/4313288809
+based on info in index.md. Create the resume in .html.
+
+
+Please create a cover letter for this job: https://jobs.baesystems.com/global/en/job/BAE1US120400BREXTERNAL/Principal-Engineer-Algorithm-Development?utm_source=linkedin&utm_medium=phenom-feeds
+
+I enjoyed the projects at Big Ladder Software, but it is a small company and I was laid-off when the HPWHsim project (through the CEC) ended. 
+
+MapTek was my first programming job. I learned a lot about the field and enjoyed 3-D graphics coding, in particular, but I wanted more opportunity for innovation.
+
+Epilog has an impressive facilty in Golden and I gained some experience working on a production line. I had been applying for software positions and got an offer from MapTek.
+
+My wife and I moved to S. Dakota and had a rich life there for 15 years, but we have strong roots in Denver, including my aging parents, and are glad to have returned to Arvada.

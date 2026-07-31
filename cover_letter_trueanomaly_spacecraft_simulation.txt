@@ -1,0 +1,22 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+True Anomaly
+Denver, Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Software Engineer, Spacecraft Simulation position at True Anomaly. My background in developing multi-physics simulation libraries, numerical solvers, and coupled-system models in C++ maps directly to the technical requirements of this role.
+
+My most relevant work is at Big Ladder Software, where I was the lead developer of HPWHsim — a production C++ library for coupled thermal-fluid simulation of heat pump water heaters. The library models heat exchange between multiple interacting subsystems (refrigerant, water, air, tank structure) using a time-stepped architecture with external JSON-based model configuration and 100+ unit tests. I also extended ERIN, an energy-resilience simulation library for modeling coupled electrical and thermal systems under failure scenarios — directly analogous to spacecraft power subsystem simulation. Both projects required the full development cycle: physical model design, solver implementation, API development, validation against empirical data, and long-term maintenance in a team environment.
+
+Earlier work adds depth: I developed dynamical electron-diffraction simulation software at NREL implementing a coupled eigenvalue/matrix-propagation problem in C++, and applied COMSOL multiphysics simulations at SDSMT to model coupled electrostatic-fluid systems. I developed Python and C++ nonlinear optimization tools (PrecDiffFit, CBED_fit) requiring iterative solvers and convergence control — the same numerical infrastructure used in ODE-based physics simulation.
+
+I hold a Ph.D. in Physics, am proficient in C++17/20 and Python, and am a U.S. citizen eligible for DoD clearance. I would welcome the opportunity to discuss the role.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

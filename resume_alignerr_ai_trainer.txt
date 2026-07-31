@@ -1,0 +1,302 @@
+SCOTT PHILLIP AHRENKIEL
+Applied Physics - AI Data Trainer
+
+Location: Arvada, Colorado 80005 (Remote Available)
+Phone: 720-988-6627
+Email: spahrenk@gmail.com
+LinkedIn: www.linkedin.com/in/phil-ahrenkiel-04b5b36
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+
+Ph.D. Physicist with 30+ years of experience in theoretical and computational
+physics, currently training large language models on complex physics problems.
+Expert in classical mechanics, electrodynamics, statistical mechanics, quantum
+mechanics, and materials physics with exceptional analytical writing
+demonstrated through 100+ peer-reviewed publications and a published textbook.
+Proven ability to formulate rigorous physics problems, develop detailed
+solutions with meticulous attention to units and mathematical proof structure,
+and identify errors in physical reasoning.
+
+================================================================================
+RELEVANT EXPERIENCE
+================================================================================
+
+AI Trainer
+Mercor (Remote) | February 2026 - Present
+
+  - Create training data for large language models (LLMs) by formulating,
+    testing, and refining complex physics problems at PhD and research level
+  - Design problems spanning classical mechanics, electrodynamics, statistical
+    mechanics, and quantum mechanics
+  - Develop detailed solutions demonstrating rigorous mathematical reasoning
+    with meticulous attention to units, scientific notation, and logical proof
+    structure
+  - Audit AI-generated responses for physical accuracy, identifying violations
+    of fundamental principles (conservation laws, thermodynamics, quantum
+    mechanics)
+  - Provide structured feedback to enhance model understanding of
+    physics-informed reasoning
+
+--------------------------------------------------------------------------------
+
+Physicist/Programmer
+eQuillTech, Arvada, Colorado | October 2025 - Present
+
+  - Develop physics-based software integrating computational modeling with
+    analytical solutions
+  - Create algorithms for materials science and physics simulations requiring
+    deep understanding of fundamental physics principles
+
+--------------------------------------------------------------------------------
+
+Computational Scientist
+Big Ladder Software, Denver, Colorado | June 2023 - October 2025
+
+  - Developed physics-based simulation library (HPWHsim) for heat pump water
+    heaters with emphasis on thermodynamic rigor and energy conservation
+  - Created interactive analysis tools using Python (Plotly Dash, NumPy, SciPy)
+    for parameter refinement and validation
+  - Maintained 100+ unit and function tests ensuring physical accuracy across
+    all simulations
+  - Implemented formal data representations (JSON) for external model
+    specifications with rigorous physical constraints
+
+--------------------------------------------------------------------------------
+
+Professor (Full/Associate/Assistant)
+South Dakota School of Mines and Technology | August 2006 - July 2021
+
+Teaching & Problem Development:
+  - Developed and taught graduate courses in nanocharacterization,
+    crystallography, nanoelectronics, and photovoltaics requiring mastery of
+    quantum mechanics, electrodynamics, and statistical mechanics
+  - Created comprehensive problem sets and instructional experiments
+    demonstrating physical principles across multiple domains
+  - Formulated exam problems testing deep understanding of fundamental physics
+    at graduate level
+  - Advised 15+ PhD students on complex physics problems in materials science
+    and nanoscience
+
+Research & Computational Physics:
+  - Developed theoretical models for transmission electron microscopy contrast
+    requiring quantum mechanical treatment of electron-matter interactions
+  - Created dynamical electron-diffraction software for computational analysis
+    using numerical methods
+  - Applied convergent-beam electron diffraction to extract alloy compositions
+    and strain states from first principles
+  - Implemented automation software for electron microscopy with rigorous
+    calibration and error analysis
+
+--------------------------------------------------------------------------------
+
+Senior Scientist I / Scientist II / Postdoctoral Scientist
+National Renewable Energy Laboratory (NREL) | January 1995 - July 2006
+
+  - Developed physical models of strain relaxation in metamorphic semiconductor
+    heterostructures for world-record efficiency photovoltaic devices
+  - Created theoretical models for TEM image contrast of partially ordered
+    structures based on dynamical electron diffraction theory
+  - Developed electron-diffraction simulation software implementing rigorous
+    quantum mechanical scattering theory
+  - Applied statistical mechanics and thermodynamics to phase separation and
+    ordering phenomena in semiconductor alloys
+
+================================================================================
+EDUCATION
+================================================================================
+
+Ph.D., Physics
+University of Colorado, Boulder | Completed December 1995
+  Dissertation: Phase Separation and Atomic Ordering in Epitaxial Semiconductor
+  Alloys Studied by Transmission Electron Microscopy
+  - Research combined quantum mechanics, statistical mechanics, and
+    computational methods
+  - Developed theoretical models for diffraction contrast and ordering
+    phenomena
+
+M.S., Physics
+Colorado School of Mines, Golden, Colorado | Completed December 1991
+  Thesis: Intercalation Processes in Layered Silicates and High-Tc
+  Superconducting Oxides Studied by X-Ray Diffraction
+  - Developed complete XRD data acquisition/analysis software package from
+    scratch
+
+B.S., Engineering Physics
+University of Colorado, Boulder | Completed December 1987
+
+================================================================================
+PHYSICS EXPERTISE
+================================================================================
+
+Classical Mechanics: Lagrangian and Hamiltonian mechanics, continuum mechanics,
+elasticity theory, strain and stress analysis in crystalline materials
+
+Electrodynamics: Maxwell's equations, electromagnetic wave propagation,
+electron-photon interactions, optical properties of materials
+
+Quantum Mechanics: Schrödinger equation, perturbation theory, quantum
+mechanical scattering theory, electron diffraction, electronic structure of
+solids, density functional theory applications
+
+Statistical Mechanics: Thermodynamics, phase transitions, ordering phenomena,
+equilibrium and non-equilibrium statistical mechanics, kinetic theory
+
+Specialized Areas: Solid state physics, materials physics, semiconductor
+physics, crystal structure and symmetry, diffraction theory, computational
+physics
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+Programming & Scientific Computing:
+  - Python (NumPy, SciPy, Matplotlib) - extensive use for physics simulations
+    and data analysis
+  - MATLAB - data analysis, numerical methods, visualization
+  - C++ - simulation software development, algorithm implementation
+  - LabVIEW, Igor Pro - experiment automation and data acquisition
+  - Digital Micrograph scripting - microscopy automation
+
+Computational Methods:
+  - Numerical solution of differential equations
+  - Monte Carlo methods
+  - Dynamical electron diffraction simulation
+  - Finite element analysis
+  - Statistical data analysis
+  - Algorithm development for physics problems
+
+Data Analysis & Validation:
+  - Rigorous error analysis and uncertainty quantification
+  - Unit consistency verification across complex calculations
+  - Scientific notation and dimensional analysis
+  - Validation against fundamental physical principles
+  - Statistical analysis of experimental and computational data
+
+================================================================================
+ANALYTICAL WRITING & COMMUNICATION
+================================================================================
+
+Published Book:
+  Co-author, "Theory and Methods of Photovoltaic Material Characterization",
+  World Scientific, 2019
+  - Comprehensive treatment of semiconductor physics, quantum mechanics of
+    photovoltaic devices, and characterization methods
+
+Book Chapter:
+  "Diffraction and imaging of ordered semiconductors" in "Spontaneous Ordering
+  in Semiconductor Alloys", Kluwer Academic, 2002
+  - Detailed theoretical treatment of electron diffraction and quantum
+    mechanical image formation
+
+Peer-Reviewed Publications: 100+ publications in premier physics and materials
+science journals demonstrating:
+  - Clear explanation of complex physical phenomena
+  - Rigorous mathematical derivations
+  - Meticulous attention to units and notation
+  - Logical proof structure from first principles
+  - Critical analysis of experimental and theoretical results
+
+Selected Publications Demonstrating Physics Rigor:
+  - "Optimization of buffer layers for lattice-mismatched epitaxy..." Solar
+    Energy Materials and Solar Cells (2007) - thermodynamic analysis of strain
+    relaxation
+  - "Nanoparticle shape and configuration analysis by transmission electron
+    tomography" Journal of Microscopy (2008) - 3D reconstruction from quantum
+    mechanical diffraction
+  - "Solid-phase crystallization kinetics..." Materials Science and Engineering
+    B (2011) - statistical mechanics of phase transitions
+  - "Standards-based method for compositional analysis by energy dispersive
+    x-ray spectrometry..." Microscopy and Microanalysis (2013) - rigorous
+    quantitative analysis with multivariate statistics
+
+================================================================================
+TEACHING EXPERIENCE
+================================================================================
+
+Developed and taught graduate-level physics courses requiring creation of
+complex problems and detailed solutions:
+
+  - NANO 703 - Instrumentation for Characterization of Nanomaterials (quantum
+    mechanics, electrodynamics)
+  - NANO 704 - Crystallography and Structure of Nanomaterials (group theory,
+    symmetry operations)
+  - NANO 705 - Nanoelectronic Materials (quantum mechanics, solid state
+    physics, statistical mechanics)
+  - NANO 708 - Nanomaterials for Photovoltaics (electrodynamics, semiconductor
+    physics, thermodynamics)
+  - Selected Topics Courses - Advanced topics in strain relaxation, ordered
+    semiconductors, defects in nanomaterials
+
+Created comprehensive problem sets, examinations, and instructional experiments
+testing deep understanding of fundamental physics principles with meticulous
+attention to mathematical rigor and unit consistency.
+
+================================================================================
+PATENTS & INVENTIONS
+================================================================================
+
+  - US20220271194A1 - Strain balanced direct bandgap aluminum indium phosphide
+    quantum wells for light emitting diodes (quantum mechanics, band structure
+    engineering)
+  - US20060048700A1 - Method for achieving device-quality, lattice-mismatched,
+    heteroepitaxial active layers (thermodynamics, kinetics)
+
+================================================================================
+PROFESSIONAL CERTIFICATIONS
+================================================================================
+
+  - Machine Learning (Stanford/Coursera, 2024)
+  - Supervised Machine Learning (Stanford/Coursera, 2024)
+  - Unsupervised Learning (Stanford/Coursera, 2024)
+
+================================================================================
+PROFESSIONAL MEMBERSHIPS
+================================================================================
+
+  - American Physical Society
+  - Microscopy Society of America
+  - Materials Research Society
+
+================================================================================
+ADDITIONAL QUALIFICATIONS
+================================================================================
+
+  - Summer Student, CERN (1987) - Installed time-projection chamber for SPS
+    collider experiment, developed test programs for data acquisition
+    electronics
+  - Grants Awarded: $3.4M+ in competitive research grants from DOE and NSF
+  - Graduate Student Supervision: Advised 15+ PhD students on complex physics
+    problems in quantum mechanics, statistical mechanics, and electrodynamics
+  - Peer Review: Extensive experience reviewing physics manuscripts for
+    rigorous accuracy and logical consistency
+
+================================================================================
+WHY I'M IDEAL FOR THIS ROLE
+================================================================================
+
+I am currently performing exactly this role at Mercor, creating physics
+training data for LLMs. My unique combination of:
+
+1. Active AI training experience - Currently formulating and refining complex
+   physics problems for LLM training
+
+2. Deep physics expertise - PhD-level mastery across all required domains
+   (classical mechanics, electrodynamics, statistical mechanics, quantum
+   mechanics)
+
+3. Exceptional writing - 100+ publications and textbook demonstrating clear
+   explanation of complex physics
+
+4. Meticulous rigor - Career-long practice of unit consistency, dimensional
+   analysis, and logical proof structure
+
+5. Programming proficiency - Extensive Python (NumPy/SciPy) and MATLAB
+   experience
+
+6. Problem design experience - 15 years creating graduate-level physics
+   problems and solutions as professor
+
+...makes me uniquely qualified to design physics problems, create rigorous
+solutions, and audit AI responses for physical accuracy.

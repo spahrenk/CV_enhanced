@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scott Phillip Ahrenkiel - Software Developer</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            background-color: white;
+            padding: 50px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+
+        h1 { font-size: 2.5em; color: #2c3e50; margin-bottom: 10px; }
+        .title { font-size: 1.3em; color: #555; font-weight: 600; margin-bottom: 20px; }
+
+        .contact-info { margin-bottom: 30px; line-height: 1.8; }
+        .contact-info p { margin: 5px 0; }
+        .contact-info a { color: #3498db; text-decoration: none; }
+        .contact-info a:hover { text-decoration: underline; }
+
+        hr { border: none; border-top: 2px solid #e0e0e0; margin: 30px 0; }
+
+        h2 {
+            font-size: 1.8em; color: #2c3e50; margin-bottom: 15px;
+            border-bottom: 3px solid #3498db; padding-bottom: 5px;
+        }
+
+        h3 { font-size: 1.3em; color: #2c3e50; margin-top: 20px; margin-bottom: 5px; }
+        .date { font-style: italic; color: #777; font-size: 0.95em; }
+
+        p { margin-bottom: 15px; }
+        ul { margin-left: 20px; margin-bottom: 15px; }
+        li { margin-bottom: 10px; }
+        strong { color: #2c3e50; }
+        .section { margin-bottom: 35px; }
+
+        @media print {
+            body { background-color: white; padding: 0; }
+            .container { box-shadow: none; padding: 20px; }
+        }
+        @media (max-width: 768px) {
+            .container { padding: 30px 20px; }
+            h1 { font-size: 2em; }
+            h2 { font-size: 1.5em; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <header>
+        <h1>Scott Phillip Ahrenkiel</h1>
+        <div class="title">Software Developer — C++ &amp; Scientific Computing</div>
+        <div class="contact-info">
+            <p><strong>Location:</strong> Arvada, Colorado 80005</p>
+            <p><strong>Phone:</strong> 720-988-6627</p>
+            <p><strong>Email:</strong> <a href="mailto:spahrenk@gmail.com">spahrenk@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/phil-ahrenkiel-04b5b36" target="_blank">www.linkedin.com/in/phil-ahrenkiel-04b5b36</a></p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/orgs/eQuillTech/repositories" target="_blank">github.com/orgs/eQuillTech/repositories</a></p>
+        </div>
+    </header>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Summary</h2>
+        <p>Software developer and computational physicist with a Ph.D. and extensive experience developing production C++ libraries, numerical algorithms, and geometric modeling tools. Background developing and maintaining complex, mathematically demanding codebases across simulation, data analysis, and 3D spatial data processing. Experienced with object-oriented design, API development, unit testing, and code review in collaborative team environments. Proficient in C++, Python, and Rust.</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Technical Skills</h2>
+        <p><strong>Primary Languages:</strong> C++ (extensive production experience), Python, Rust</p>
+        <p><strong>C++ Expertise:</strong> Object-oriented design, template metaprogramming, header-only libraries, API design, performance optimization, legacy codebase refactoring</p>
+        <p><strong>Numerical &amp; Geometric Methods:</strong> 3D surface triangulation and meshing, interpolation, nonlinear optimization, numerical simulation, spatial data processing</p>
+        <p><strong>Software Engineering:</strong> Git/GitHub (Mercurial), unit testing, debugging, code review (JIRA), technical documentation</p>
+        <p><strong>Additional:</strong> MATLAB, LabVIEW, Swift, Objective-C; macOS, Linux, Windows</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Experience</h2>
+
+        <h3>Physicist/Programmer</h3>
+        <p><strong>eQuillTech, Arvada, Colorado</strong> | <span class="date">October 2025 – Present</span></p>
+        <ul>
+            <li>Develop physics-based software applications and scientific computing libraries in Python and C++</li>
+            <li>Maintain open-source repositories on GitHub</li>
+        </ul>
+
+        <h3>Computational Scientist</h3>
+        <p><strong>Big Ladder Software, Denver, Colorado</strong> | <span class="date">June 2023 – October 2025</span></p>
+        <ul>
+            <li><strong>HPWHsim (C++):</strong> Lead developer for a production thermal simulation library used in California Energy Commission compliance calculations. Refactored and generalized a large legacy codebase with emphasis on physical rigor, object-oriented design, and maintainability. Implemented JSON-based external model integration and maintained 100+ unit/function tests.
+                (<a href="https://github.com/bigladder/HPWHsim" target="_blank">github.com/bigladder/HPWHsim</a>)</li>
+            <li><strong>Physical Units Library (C++):</strong> Designed and implemented a header-only C++ library using template metaprogramming for compile-time dimensional analysis, providing type-safe unit conversions and a unit-agnostic API across simulation codebases.
+                (<a href="https://github.com/eQuillTech/unity" target="_blank">github.com/eQuillTech/unity</a>)</li>
+            <li><strong>btwxt interpolation library (C++):</strong> Formalized evaluation methods and generated comprehensive documentation for a production multi-dimensional interpolation library.
+                (<a href="https://github.com/bigladder/btwxt" target="_blank">github.com/bigladder/btwxt</a>)</li>
+            <li><strong>ERIN energy-resilience library (C++):</strong> Extended a large-scale energy systems simulation library with CLI interface and additional modeling features.</li>
+            <li><strong>Analysis suite (Python/Plotly Dash):</strong> Independently built interactive multi-parameter analysis and visualization tools for simulation parameter refinement and model validation.</li>
+        </ul>
+
+        <h3>Software Engineer</h3>
+        <p><strong>Maptek, Golden, Colorado</strong> | <span class="date">April 2022 – February 2023</span></p>
+        <ul>
+            <li>Maintained and enhanced Vulcan, a large commercial C++ mining and 3D modeling application, using Mercurial version control and JIRA-based code review</li>
+            <li><strong>Topographic mesh generation algorithm:</strong> Developed a novel C++ algorithm for generating variable-resolution triangulated surface meshes from large geo-tagged TIFF raster datasets, with resolution adapted to terrain complexity.
+                (<a href="https://github.com/eQuillTech/Topo" target="_blank">github.com/eQuillTech/Topo</a>)</li>
+            <li>Extended the libTIFF driver to handle USGS Global Fiducials Library data; wrote unit tests and fixed production defects</li>
+        </ul>
+
+        <h3>Professor (Assistant / Associate / Full)</h3>
+        <p><strong>South Dakota School of Mines and Technology, Rapid City, SD</strong> | <span class="date">August 2006 – July 2021</span></p>
+        <ul>
+            <li><strong>PrecDiffFit:</strong> Developed software for nonlinear optimization of multi-parameter physical models against experimental diffraction datasets.
+                (<a href="https://github.com/eQuillTech/PrecDiffFit" target="_blank">github.com/eQuillTech/PrecDiffFit</a>)</li>
+            <li><strong>CBED_fit:</strong> Implemented fitting software for simultaneous extraction of composition and strain from electron diffraction patterns via nonlinear least-squares optimization.
+                (<a href="https://github.com/eQuillTech/CBED_fit" target="_blank">github.com/eQuillTech/CBED_fit</a>)</li>
+            <li>Developed Digital Micrograph scripting infrastructure for automated instrument control and image acquisition</li>
+            <li>Built MOCVD process control software integrating sensors, mass flow controllers, and safety interlocks</li>
+        </ul>
+
+        <h3>Senior Scientist I / Scientist II / Postdoctoral Scientist</h3>
+        <p><strong>National Renewable Energy Laboratory (NREL), Golden, Colorado</strong> | <span class="date">January 1995 – July 2006</span></p>
+        <ul>
+            <li>Developed dynamical electron-diffraction simulation software in C++ implementing quantum-mechanical wave propagation algorithms; validated against experimental data</li>
+            <li>Built physical models and simulation tools for semiconductor heterostructure design</li>
+            <li>Applied computational image analysis and numerical methods to large experimental datasets</li>
+        </ul>
+
+        <h3>Graduate Research Assistant</h3>
+        <p><strong>Colorado School of Mines, Golden, Colorado</strong> | <span class="date">January 1989 – August 1991</span></p>
+        <ul>
+            <li>Wrote complete data acquisition and control software for a four-circle X-ray diffractometer, automating parametric scans and real-time data reduction</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Selected Open-Source Projects</h2>
+        <p><strong>HPWHsim</strong> — Production C++ thermal simulation library with JSON integration and 100+ tests:
+            <a href="https://github.com/bigladder/HPWHsim" target="_blank">github.com/bigladder/HPWHsim</a></p>
+        <p><strong>Topo</strong> — Variable-resolution topographic triangulation algorithm in C++:
+            <a href="https://github.com/eQuillTech/Topo" target="_blank">github.com/eQuillTech/Topo</a></p>
+        <p><strong>unity</strong> — Header-only C++ physical units library with template metaprogramming:
+            <a href="https://github.com/eQuillTech/unity" target="_blank">github.com/eQuillTech/unity</a></p>
+        <p><strong>PrecDiffFit</strong> — Nonlinear diffraction pattern fitting software:
+            <a href="https://github.com/eQuillTech/PrecDiffFit" target="_blank">github.com/eQuillTech/PrecDiffFit</a></p>
+        <p><strong>CBED_fit</strong> — Multi-parameter electron diffraction fitting tool:
+            <a href="https://github.com/eQuillTech/CBED_fit" target="_blank">github.com/eQuillTech/CBED_fit</a></p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Education</h2>
+
+        <h3>Ph.D., Physics</h3>
+        <p><strong>University of Colorado, Boulder, Colorado</strong> | <span class="date">Completed December 1995</span><br>
+        Dissertation: Phase Separation and Atomic Ordering in Epitaxial Semiconductor Alloys Studied by Transmission Electron Microscopy</p>
+
+        <h3>M.S., Physics</h3>
+        <p><strong>Colorado School of Mines, Golden, Colorado</strong> | <span class="date">Completed December 1991</span></p>
+
+        <h3>B.S., Engineering Physics</h3>
+        <p><strong>University of Colorado, Boulder, Colorado</strong> | <span class="date">Completed December 1987</span></p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Publications</h2>
+        <p>100+ peer-reviewed publications in physics, materials science, and photovoltaics. Co-author, <em>Theory and Methods of Photovoltaic Material Characterization</em>, World Scientific, 2019.</p>
+    </section>
+
+</div>
+</body>
+</html>

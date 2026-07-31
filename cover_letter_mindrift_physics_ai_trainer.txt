@@ -1,0 +1,33 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+Mindrift
+North Carolina, United States
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Physics & Python Expert - Freelance AI Trainer position at Mindrift. With a Ph.D. in Physics, over 25 years of professional physics experience, and current hands-on experience creating training data for large language models, I am confident I can make immediate and valuable contributions to your AI training projects.
+
+I am currently working as an AI Trainer at Mercor, where I create training data for LLMs by formulating, testing, and refining complex physics problems. This role has given me direct experience in the exact responsibilities outlined in your job posting: creating physics problems aligned with professional standards, assessing AI solution accuracy, validating calculations using Python libraries, and applying scoring rubrics to multi-step problems. I bring both the technical physics expertise and the practical AI training experience needed for this position.
+
+My technical qualifications align perfectly with your requirements:
+
+- Physics Degree: Ph.D. in Physics from the University of Colorado, Boulder (1995), with M.S. and B.S. degrees in Physics/Engineering Physics
+- Professional Experience: 25+ years of professional physics work including positions at the National Renewable Energy Laboratory, South Dakota School of Mines and Technology (Full Professor), Big Ladder Software, and my current roles at Mercor and eQuillTech
+- Python Expertise: Extensive experience using NumPy, SciPy, and Pandas for numerical analysis, data validation, and computational physics, including developing interactive analysis applications with Plotly Dash
+- English Proficiency: Native English speaker (C2 level) with strong technical writing skills demonstrated through 100+ peer-reviewed publications and co-authorship of a physics textbook
+
+My background spans multiple physics domains including computational modeling, thermodynamics, materials science, photovoltaics, and numerical simulation. I have developed computational physics software, created complex problem sets for graduate courses, and designed algorithms for solving challenging physics problems. My work has included validating physical models, ensuring dimensional consistency in calculations, and applying rigorous analytical methods to complex systems.
+
+I am particularly drawn to this position because it combines my physics expertise with my interest in advancing AI capabilities. Having witnessed firsthand how LLMs handle physics problems in my current AI training work, I am eager to contribute to improving their reasoning abilities and problem-solving accuracy.
+
+I am available for the estimated 10-20 hours weekly workload and am comfortable with the project-based nature of the position. My flexible schedule as a freelance physicist/programmer allows me to dedicate focused time to creating high-quality training data and assessments.
+
+I would welcome the opportunity to discuss how my physics expertise, Python programming skills, and AI training experience can benefit Mindrift's projects. Thank you for considering my application.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

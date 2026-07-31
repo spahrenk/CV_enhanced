@@ -1,0 +1,26 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+Voyager Technologies
+Broomfield, Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Materials Scientist – Advanced Technology position at Voyager Technologies. My background in experimental materials characterization and computational analysis of inorganic semiconductor systems is a close match to the technical requirements of this role.
+
+My research career has centered on quantitative characterization of III-V and II-VI semiconductor alloys and heterostructures using transmission electron microscopy (TEM) and X-ray diffraction (XRD). At the National Renewable Energy Laboratory, where I worked for over eleven years, I developed detailed physical models for compositionally graded metamorphic heterostructures — work that required integrating experimental TEM datasets with theoretical simulations to extract structural and compositional information. I also built dynamical electron-diffraction simulation software and theoretical image-contrast models that served as quantitative ground truth for interpreting experimental data across a range of material systems, from ordered III-V alloys to nanoparticles to polycrystalline thin films.
+
+At South Dakota School of Mines, I managed a JEOL JEM-2100 high-resolution TEM facility and led research on ordering phenomena in III-V films using precession electron diffraction, CBED, and EDXS. I developed PrecDiffFit and CBED_fit — nonlinear optimization tools for refining experimental diffraction datasets against simulations to extract order parameters, composition, and strain. These tools represent exactly the kind of data-driven, simulation-coupled approach to materials analysis that your job description emphasizes.
+
+On the computational and ML side, I hold Stanford/Coursera certifications in Machine Learning, Supervised Learning, and Unsupervised Learning (2024), and I am currently working as an AI Trainer applying data-driven evaluation methods to scientific content. My programming background includes Python (NumPy, SciPy, Pandas), C++, and MATLAB, used throughout my career for data analysis, simulation, and algorithm development.
+
+I have collaborated extensively with multidisciplinary teams — experimentalists, device engineers, and computational scientists — at national laboratories, universities, and industry, and I have communicated research findings through 100+ peer-reviewed publications, two book contributions, and competitive grant proposals totaling over $2M.
+
+I am drawn to Voyager's focus on translating advanced materials research into space and defense applications, and I am confident my characterization expertise and computational background would contribute meaningfully to the Advanced Technologies Group. I would welcome the opportunity to discuss the role further.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

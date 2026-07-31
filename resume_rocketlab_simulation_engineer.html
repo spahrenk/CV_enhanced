@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scott Phillip Ahrenkiel - Senior Software Engineer, Simulation</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            background-color: white;
+            padding: 50px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+
+        h1 { font-size: 2.5em; color: #2c3e50; margin-bottom: 10px; }
+        .title { font-size: 1.3em; color: #555; font-weight: 600; margin-bottom: 20px; }
+
+        .contact-info { margin-bottom: 30px; line-height: 1.8; }
+        .contact-info p { margin: 5px 0; }
+        .contact-info a { color: #3498db; text-decoration: none; }
+        .contact-info a:hover { text-decoration: underline; }
+
+        hr { border: none; border-top: 2px solid #e0e0e0; margin: 30px 0; }
+
+        h2 {
+            font-size: 1.8em; color: #2c3e50; margin-bottom: 15px;
+            border-bottom: 3px solid #3498db; padding-bottom: 5px;
+        }
+
+        h3 { font-size: 1.3em; color: #2c3e50; margin-top: 20px; margin-bottom: 5px; }
+        .date { font-style: italic; color: #777; font-size: 0.95em; }
+
+        p { margin-bottom: 15px; }
+        ul { margin-left: 20px; margin-bottom: 15px; }
+        li { margin-bottom: 10px; }
+        strong { color: #2c3e50; }
+        .section { margin-bottom: 35px; }
+
+        @media print {
+            body { background-color: white; padding: 0; }
+            .container { box-shadow: none; padding: 20px; }
+        }
+        @media (max-width: 768px) {
+            .container { padding: 30px 20px; }
+            h1 { font-size: 2em; }
+            h2 { font-size: 1.5em; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <header>
+        <h1>Scott Phillip Ahrenkiel</h1>
+        <div class="title">Senior Software Engineer — Simulation</div>
+        <div class="contact-info">
+            <p><strong>Location:</strong> Arvada, Colorado 80005</p>
+            <p><strong>Phone:</strong> 720-988-6627</p>
+            <p><strong>Email:</strong> <a href="mailto:spahrenk@gmail.com">spahrenk@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/phil-ahrenkiel-04b5b36" target="_blank">www.linkedin.com/in/phil-ahrenkiel-04b5b36</a></p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/orgs/eQuillTech/repositories" target="_blank">github.com/orgs/eQuillTech/repositories</a></p>
+            <p><strong>Citizenship:</strong> U.S. Citizen</p>
+        </div>
+    </header>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Summary</h2>
+        <p>Software engineer and computational physicist with a Ph.D. and 25+ years developing physics-based simulation software, numerical tools, and analysis workflows. Extensive experience building and maintaining production simulation libraries in C++ and Python, developing GUIs for simulation parameter refinement, and applying physical modeling to complex engineering problems. Background spans thermal systems, energy resilience, electron-optical systems, semiconductor growth, and structural mechanics. Proficient in Python, C++, MATLAB, and COMSOL. U.S. citizen.</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Technical Skills</h2>
+        <p><strong>Simulation &amp; Modeling:</strong> Physics-based simulation, multiphysics modeling, numerical optimization, finite-element analysis (COMSOL), thermal systems, energy systems, dynamical systems</p>
+        <p><strong>Languages:</strong> Python (NumPy, SciPy, Pandas, Plotly), C++, MATLAB, Rust, LabVIEW</p>
+        <p><strong>GUI Development:</strong> Plotly Dash (interactive web-based analysis applications)</p>
+        <p><strong>Numerical Methods:</strong> Nonlinear optimization, least-squares fitting, interpolation, Monte Carlo-based statistical analysis, algorithm development</p>
+        <p><strong>ML / AI:</strong> Machine learning for simulation optimization; Stanford/Coursera certified (2024)</p>
+        <p><strong>Software Engineering:</strong> Git/GitHub, unit testing (100+ tests), API design, documentation, CI/CD workflows, refactoring legacy codebases</p>
+        <p><strong>Systems:</strong> Linux, macOS, Windows</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Experience</h2>
+
+        <h3>Physicist/Programmer</h3>
+        <p><strong>eQuillTech, Arvada, Colorado</strong> | <span class="date">October 2025 – Present</span></p>
+        <ul>
+            <li>Develop physics-based simulation and analysis tools in Python and C++</li>
+            <li>Maintain open-source scientific computing repositories on GitHub</li>
+        </ul>
+
+        <h3>Computational Scientist</h3>
+        <p><strong>Big Ladder Software, Denver, Colorado</strong> | <span class="date">June 2023 – October 2025</span></p>
+        <ul>
+            <li><strong>HPWHsim simulation library (C++):</strong> Lead developer for a production thermal physics simulation library used in California Energy Commission compliance calculations. Developed and validated thermal models of heat pump water heaters, restructured a legacy codebase for physical rigor and maintainability, and maintained 100+ unit/function tests. Implemented JSON-based external model integration for manufacturer-supplied data.
+                (<a href="https://github.com/bigladder/HPWHsim" target="_blank">github.com/bigladder/HPWHsim</a>)</li>
+            <li><strong>Simulation GUI (Python/Plotly Dash):</strong> Independently designed and built an interactive multi-parameter analysis suite for simulation parameter refinement and model validation against manufacturer datasets. Provided engineers with real-time visualization and fitting tools for complex thermal system models.</li>
+            <li><strong>ERIN energy-resilience simulation (C++):</strong> Extended a large-scale energy systems simulation library with a CLI interface and additional modeling features for catastrophic failure analysis of complex installations (military bases, universities).
+                (<a href="https://github.com/bigladder/erin" target="_blank">github.com/bigladder/erin</a>)</li>
+            <li><strong>btwxt interpolation library (C++):</strong> Formalized evaluation methods and generated comprehensive documentation for a production multi-dimensional interpolation library used in simulation workflows.
+                (<a href="https://github.com/bigladder/btwxt" target="_blank">github.com/bigladder/btwxt</a>)</li>
+            <li><strong>Physical Units Library (C++):</strong> Designed a header-only library for dimensional analysis and unit-agnostic API design, improving simulation code correctness and readability.</li>
+        </ul>
+
+        <h3>Software Engineer</h3>
+        <p><strong>Maptek, Golden, Colorado</strong> | <span class="date">April 2022 – February 2023</span></p>
+        <ul>
+            <li>Maintained and enhanced Vulcan commercial C++ mining software using Mercurial and JIRA</li>
+            <li>Developed novel algorithm for generating variable-resolution topographic triangulations from large geo-tagged TIFF rasters — involving spatial data processing, mesh optimization, and performance tuning under real-world constraints</li>
+        </ul>
+
+        <h3>Professor (Assistant / Associate / Full)</h3>
+        <p><strong>South Dakota School of Mines and Technology, Rapid City, SD</strong> | <span class="date">August 2006 – July 2021</span></p>
+        <ul>
+            <li><strong>COMSOL finite-element simulation:</strong> Applied COMSOL multiphysics simulations to model electric field distributions and fluid dynamics in electrospinning nozzle geometries, using simulation results to optimize synthesis parameters for controlled nanofiber production</li>
+            <li><strong>PrecDiffFit — nonlinear optimization tool:</strong> Developed Python software for refining precession electron diffraction patterns against dynamical simulations using nonlinear least-squares optimization to extract order parameters. Validated simulation models against experimental datasets across a range of materials.
+                (<a href="https://github.com/eQuillTech/PrecDiffFit" target="_blank">github.com/eQuillTech/PrecDiffFit</a>)</li>
+            <li><strong>CBED_fit — multi-parameter fitting:</strong> Implemented convergent-beam electron diffraction fitting software using nonlinear optimization for simultaneous extraction of alloy composition and strain from experimental diffraction data.
+                (<a href="https://github.com/eQuillTech/CBED_fit" target="_blank">github.com/eQuillTech/CBED_fit</a>)</li>
+            <li><strong>MOCVD control and simulation:</strong> Built programmable control software for a metalorganic chemical vapor deposition system with real-time process monitoring, hardware integration, and safety protocols. Conducted parametric growth experiments guided by physical models.
+                (<a href="https://github.com/SPAhrenTech/MOCVD_Lib" target="_blank">github.com/SPAhrenTech/MOCVD_Lib</a>)</li>
+            <li>Taught graduate courses in nanocharacterization, crystallography, nanoelectronics, and photovoltaics; mentored Ph.D. students in experimental and computational methods</li>
+        </ul>
+
+        <h3>Senior Scientist I / Scientist II / Postdoctoral Scientist</h3>
+        <p><strong>National Renewable Energy Laboratory (NREL), Golden, Colorado</strong> | <span class="date">January 1995 – July 2006</span></p>
+        <ul>
+            <li>Developed dynamical electron-diffraction simulation software implementing quantum-mechanical wave propagation models; validated simulations against experimental datasets</li>
+            <li>Developed and validated physical models of strain relaxation in metamorphic semiconductor heterostructures, identifying optimization criteria enabling world-record photovoltaic device efficiencies</li>
+            <li>Applied statistical analysis and computational image processing to large experimental datasets from TEM tomography and spectroscopy</li>
+            <li>Designed and constructed custom optical instrumentation for tandem solar cell characterization</li>
+        </ul>
+
+        <h3>Graduate Research Assistant</h3>
+        <p><strong>Colorado School of Mines, Golden, Colorado</strong> | <span class="date">January 1989 – August 1991</span></p>
+        <ul>
+            <li>Wrote complete data acquisition and analysis software for a four-circle X-ray diffractometer, automating parametric scans and real-time data reduction</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Education</h2>
+
+        <h3>Ph.D., Physics</h3>
+        <p><strong>University of Colorado, Boulder, Colorado</strong> | <span class="date">Completed December 1995</span><br>
+        Dissertation: Phase Separation and Atomic Ordering in Epitaxial Semiconductor Alloys Studied by Transmission Electron Microscopy</p>
+
+        <h3>M.S., Physics</h3>
+        <p><strong>Colorado School of Mines, Golden, Colorado</strong> | <span class="date">Completed December 1991</span><br>
+        Thesis: Intercalation Processes in Layered Silicates and High-Tc Superconducting Oxides Studied by X-Ray Diffraction</p>
+
+        <h3>B.S., Engineering Physics</h3>
+        <p><strong>University of Colorado, Boulder, Colorado</strong> | <span class="date">Completed December 1987</span></p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Selected Publications &amp; Book</h2>
+        <p>100+ peer-reviewed publications in physics, materials science, and photovoltaics. Co-author, <em>Theory and Methods of Photovoltaic Material Characterization</em>, World Scientific, 2019. (Google Scholar profile available)</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Research Grants</h2>
+        <ul>
+            <li>U.S. Department of Energy: $1.4M+ across three competitive awards (2007–2018)</li>
+            <li>National Science Foundation: $699K for TEM acquisition and training (2009)</li>
+            <li>NREL Director's Research Fund: $120K for nanoparticle characterization (2004)</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Certifications</h2>
+        <ul>
+            <li>Machine Learning Specialization (Stanford/Coursera, 2024)</li>
+            <li>Supervised Machine Learning (Stanford/Coursera, 2024)</li>
+            <li>Unsupervised Learning (Stanford/Coursera, 2024)</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Memberships</h2>
+        <ul>
+            <li>American Physical Society</li>
+            <li>Microscopy Society of America</li>
+            <li>Materials Research Society</li>
+        </ul>
+    </section>
+
+</div>
+</body>
+</html>

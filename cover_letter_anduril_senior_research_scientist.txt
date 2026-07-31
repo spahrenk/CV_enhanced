@@ -1,0 +1,24 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+Anduril Industries
+Broomfield, Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Senior Research Scientist position at Anduril Industries. My background in algorithm development, scientific computing, and applied physics maps directly to the technical requirements of this role.
+
+My career has centered on developing mathematically rigorous tools for extracting information from complex physical systems — which is, at its core, the same challenge your team faces in building perception, tracking, and autonomy algorithms. At South Dakota School of Mines, I developed PrecDiffFit and CBED_fit: nonlinear optimization tools that refine multi-parameter physical models against experimental datasets to extract composition, strain, and structural order parameters from electron diffraction patterns. At Maptek, I designed a novel algorithm for generating variable-resolution topographic triangulations from large geo-referenced raster datasets under real-world performance constraints. At Big Ladder Software, I led development of HPWHsim, a production thermal simulation library used for regulatory compliance, with 100+ unit tests and a Python-based analysis suite for multi-parameter model validation.
+
+My programming skills span Rust, C++, and Python — the specific languages listed in your requirements. I use Python and C++ regularly for scientific computing and simulation; I have been developing proficiency in Rust for systems-level work. I hold Stanford/Coursera certifications in machine learning and am currently working as an AI trainer, which has given me direct experience evaluating algorithmic reasoning and mathematical correctness in complex problem domains.
+
+I hold a Ph.D. in Physics from the University of Colorado and have published over 100 peer-reviewed papers, demonstrating both technical depth and the ability to communicate rigorous work clearly to varied audiences. I am a U.S. citizen and eligible to obtain a Top Secret SCI security clearance.
+
+I am drawn to Anduril's focus on deploying algorithms in real operational systems rather than stopping at publication — that transition from prototype to mission-critical deployment is where the most interesting engineering challenges arise. I would welcome the opportunity to discuss how my background fits your team's needs.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

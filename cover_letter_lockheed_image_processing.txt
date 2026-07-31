@@ -1,0 +1,22 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+Lockheed Martin
+Boulder/Broomfield, Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Image Processing Engineer – Missile Detection and Tracking position. My background in developing image processing algorithms, detection and estimation software, and production C++ codebases aligns closely with the technical requirements of this role.
+
+My career has centered on extracting quantitative information from complex, noisy image and signal datasets — a challenge that shares the same mathematical foundations as target detection and tracking. At NREL and South Dakota School of Mines, I developed algorithms for reducing background and noise in TEM images and diffraction patterns, refined multi-parameter physical models using nonlinear estimation methods, and built simulation software to generate synthetic reference signatures for model validation. These projects involved spatial filtering, Fourier analysis, statistical thresholding, and iterative fitting — all standard tools in detection and tracking algorithm development. I also applied 3D reconstruction methods to TEM tomography datasets, requiring geometric registration and model-based estimation from projection data.
+
+On the software side, I have extensive production C++ experience: lead developer of HPWHsim (thermal simulation library, 100+ unit tests, CEC compliance calculations), contributor to Vulcan (commercial 3D mining software at Maptek), and author of several scientific computing libraries. I use MATLAB and Python regularly for algorithm prototyping and analysis, and I am comfortable moving between rapid prototyping and production implementation.
+
+I hold a Ph.D. in Physics, am a U.S. citizen, and am eligible to obtain a TS/SCI security clearance.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

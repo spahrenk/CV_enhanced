@@ -1,0 +1,26 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+Rocket Lab
+Littleton, Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Senior Software Engineer – Simulation Engineering position at Rocket Lab. My background in developing physics-based simulation software, numerical tools, and analysis workflows in C++ and Python is a strong match for this role.
+
+My most directly relevant work was as the lead developer of HPWHsim at Big Ladder Software — a production thermal physics simulation library used for California Energy Commission compliance calculations. I restructured a legacy codebase for physical rigor and maintainability, implemented external model integration via JSON, and maintained 100+ unit and function tests. I also extended the ERIN energy-resilience simulation library, adding a CLI interface and new modeling features for complex electrical and thermal systems. Both projects required the full simulation development cycle: model development, validation against experimental data, documentation, and long-term maintenance.
+
+Alongside the simulation work, I independently built an interactive Plotly Dash application suite for multi-parameter simulation refinement — giving engineers real-time visualization and fitting tools for complex thermal models. GUI design for simulation workflows is something I find natural and useful.
+
+Earlier in my career, I applied COMSOL finite-element simulations to optimize electrospinning process parameters, and developed several Python-based nonlinear optimization tools (PrecDiffFit, CBED_fit) for refining physical models against experimental datasets. At NREL, I developed dynamical electron-diffraction simulation software implementing quantum-mechanical wave propagation models, and built physical models of semiconductor heterostructures that directly guided experimental design.
+
+My technical skills — Python, C++, MATLAB, COMSOL, numerical methods, and ML — align with your requirements. I hold a Ph.D. in Physics, am a U.S. citizen, and have extensive experience collaborating with domain experts to translate physical requirements into robust simulation software.
+
+I am drawn to Rocket Lab's work on spacecraft and payloads for lunar and Mars missions, and I would welcome the opportunity to contribute simulation engineering expertise to that effort.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

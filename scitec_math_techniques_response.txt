@@ -1,0 +1,11 @@
+Yes, I have extensive experience with all four mathematical techniques:
+
+NUMERICAL OPTIMIZATION: Implemented optimization algorithms in production code at Big Ladder Software for thermodynamic system parameter refinement. Developed optimization criteria for semiconductor device structures at NREL that achieved world-record photovoltaic efficiencies. Experience includes gradient-based methods, nonlinear optimization, and multi-parameter fitting across Python, MATLAB, and C++ platforms.
+
+UNCERTAINTY QUANTIFICATION: Applied uncertainty analysis throughout my research career, from X-ray diffraction measurements (MS thesis) to electron microscopy quantification (PhD research at NREL). Developed error propagation methods for compositional analysis using multivariate statistical techniques. Taught graduate-level courses on measurement uncertainty and error analysis for 15 years.
+
+STATISTICAL ANALYSIS: Created multivariate statistical analysis methods for extracting alloy compositions from energy-dispersive X-ray spectrometry data (published in Microscopy and Microanalysis, 2013). Applied statistical methods to phase-change kinetics, nanoparticle characterization, and materials optimization throughout my career. Completed machine learning coursework including supervised and unsupervised learning techniques.
+
+SCHEDULING ALGORITHMS: While not my primary focus, I have experience with workflow optimization in real-time control systems (MOCVD process control) and computational resource allocation in automated data acquisition systems.
+
+My approach combines rigorous mathematical foundations with practical implementation in research and production environments.

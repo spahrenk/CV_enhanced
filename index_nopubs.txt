@@ -1,0 +1,423 @@
+curriculum vitae
+
+Scott Phillip Ahrenkiel
+address: Arvada, Colorado 80005
+cell: 720-988-6627
+e-mail: spahrenk@gmail.com
+linkedin: www.linkedin.com/in/phil-ahrenkiel-04b5b36
+
+Education
+
+Completed Dec. 1995  Ph.D., Physics, University of Colorado, Boulder, Colorado
+    Thesis Title: Phase Separation and Atomic Ordering in Epitaxial
+    Semiconductor Alloys Studied by Transmission Electron Microscopy
+    https://www.proquest.com/openview/7ab0a62fdab6c5a3cd76709d1e2b811d/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+Completed Dec. 1991  M. S., Physics, Colorado School of Mines, Golden, Colorado
+    Thesis Title: Intercalation Processes in Layered Silicates and High-Tc
+    Superconducting Oxides Studied by X-Ray Diffraction
+    https://hdl.handle.net/11124/176275
+
+Completed Dec. 1987  B. S., Engineering Physics, University of Colorado,
+    Boulder, Colorado
+
+Employment
+
+eQuillTech, Arvada, Colorado
+https://equilltech.com/
+Physicist/Programmer (Oct 2025-present)
+
+* I develop physics-based software inspired by my research interests and
+  entertainment.
+  https://github.com/orgs/SPAhrenTech/repositories
+
+Big Ladder Software, Denver, Colorado
+https://bigladdersoftware.com/
+Computational Scientist (Jun 2023-Oct 2025)
+
+* My main project was development of a heat-pump-water-heater simulation
+  library used for compliance calculations by the California Energy Commission.
+  I generalized and restructured large segments of the code, with emphasis on
+  physical rigor, while maintaining hundreds of unit and function tests. I
+  implemented a formal data representation to allow external entry of
+  manufacturer models as JSON. I added independently an interactive suite of
+  graphical analysis apps using Plotly Dash, used to refine simulation
+  parameters for new manufacturer models, and created a header-only library
+  for a physical-units agnostic API.
+  HPWHsim: https://github.com/bigladder/HPWHsim
+  CSE: https://github.com/cse-sim/cse
+  Unity: https://github.com/SPAhrenTech/unity
+
+* I created a data-conversion library for users of the legacy California
+  Utility Allowance Calculator (https://bees.noresco.com/cuac.html) Access
+  databases to extract data via SQL.
+
+* I added a command-line interface and requested features to an
+  energy-resilience simulation library, used for catastrophic analysis of
+  large-scale installations (e.g., military bases, universities).
+  https://github.com/bigladder/erin
+
+* I formalized evaluation methods and generated documentation for a C++
+  interpolation library.
+  https://github.com/bigladder/btwxt
+
+* I developed a utility script that swaps and minimizes boost versions.
+  https://github.com/bigladder/kiva/blob/develop/scripts/update-boost.py
+
+Maptek, Golden, Colorado
+https://www.maptek.com/
+Software Engineer (Apr 2022-Feb 2023)
+
+* I provided maintenance on Vulcan software, fixing defects and creating unit
+  tests, using a JIRA-based review system, with Mercurial for version control.
+  https://www.maptek.com/products/vulcan/
+
+* In response to a user story, I added the ability to import large, geo-tagged
+  TIFF files, by expanding the extant libTIFF driver and developing a novel
+  algorithm to generate optimized, topographical triangulations with variable
+  resolution.
+  https://www.usgs.gov/global-fiducials-library-data-access-portal/data
+  https://github.com/SPAhrenTech/Topo
+
+Epilog, Golden, Colorado
+https://www.epiloglaser.com/
+Laser Alignment Technician (Oct 2021-Apr 2022)
+
+* I worked in a manufacturing environment to perform alignment of new and
+  repaired CO2 lasers for laser cutting/engraving systems.
+
+South Dakota School of Mines and Technology, Rapid City, South Dakota
+www.sdsmt.edu/
+Nanoscience & Nanoengineering Ph.D. Program
+Professor (Aug 2017-Jul 2021)
+
+* My group worked on the optimization of ordered, metamorphic III-V films for
+  red/amber LEDs. We demonstrated ordered/disordered epitaxial homostructures
+  using a plasma-enhanced MOCVD method. We measured the strength of ordering in
+  these films by a precession-diffraction method, using automated alignment and
+  acquistion. The patterns were refined to dynamical simulations.
+  https://github.com/SPAhrenTech/PrecDiffFit
+
+* Using PE-MOCVD, we demonstrated epi-Al films on GaAs substrates and control
+  of order/disorder in III-V alloy epilayers.
+
+* I contributed to a state-wide bio-imaging center supported through NSF, and
+  advised graduate students on TEM analysis of mutated cellular structures. My
+  student used TEM to reconstruct localized biological features prepared by
+  ultramicrotomy.
+  Student: https://www.impactio.com/researcher/IsharaRatnayake
+
+* I created additional special-topics courses to meet graduate-research needs.
+  https://spahrentech.com/notes/SelectedTopics/index.html
+
+* I wrote a Digital Micrograph script manager and supporting plug-ins to
+  improve the user experience and facilitate data archiving for the JEM-2100
+  transmission electron microscope, and to integrate technique automation
+  (e.g., montaging).
+  https://www.gatan.com/products/tem-analysis/digitalmicrograph-software
+  https://github.com/SPAhrenTech/DM_Scripts
+  https://github.com/SPAhrenTech/DM_Scripts/blob/main/Scripts/Montage.s
+
+* I served on several academic and campus committees, including University
+  Research, Promotion & Tenure, Risk Management, Parking Appeals.
+
+Associate Professor (Aug 2012-Jul 2017)
+
+* In a DOE partnership support, we developed PE-MOCVD to explore synthesis at
+  far-from-equilibrium conditions. We synthesized high-mobility epi-GaAs films
+  on flexible metal substrates, which were proposed for multijunction III-V
+  devices. We confronted the central challenge of defect propagation in these
+  materials with a broad range of innovative growth experiments.
+  DOE Partnership: https://www.energy.gov/sites/prod/files/2019/02/f59/ahrenkiel_poster_ssl-rd2019.pdf
+
+* We developed a focused-jet electrospinning method for controlled synthesis
+  of loaded polymeric nanofibers.
+  https://www.youtube.com/watch?v=9JB5l0zkqLs
+
+Assistant Professor (Aug 2006- Jul 2012)
+
+* I developed a core graduate course on nanocharacterization, and wrote a
+  complete series of instructional experiments for that course to utilize
+  instrumentation across campus. I taught all core courses for the program,
+  and created elective courses on crystallography, nanomaterials,
+  photovoltaics, and nanoelectronics. I also offered several selected topics
+  courses in support of graduate research. I created an undergrade nanoscience
+  course.
+  Courses: https://spahrentech.com/notes/SelectedTopics/index.html
+
+* I managed the legacy Hitachi transmission electron microscope and trained
+  users. I added digital acquisition capability, and facilitated and
+  coordinated access and training for student research throughout the state.
+  In 2009, we acquired a high-resolution JEOL TEM instrument. I oversaw the
+  design, excavation, and renovation of specialized laboratory space for
+  mechanical isolation of the instrument.
+
+* I supported and advised student research through a university/DOE national
+  laboratory partnership. We modified a home-built metalorganic chemical vapor
+  deposition system to synthesize epitaxial films of III-V compound
+  semiconductors engineered for multi-junction photovoltaics. For over a
+  decade, the MOCVD system was used for student research and external
+  collaboration, with extensive hardware and software customization. The
+  inherint risks of MOCVD demanded attention to safety protocols and
+  development of a hazard communication system.
+  Software: https://github.com/SPAhrenTech/MOCVD_Lib
+  Hazard system: https://github.com/SPAhrenTech/TGM_online
+
+* We developed a computational method to extract alloy compositions of alloy
+  films from energy-dispersive X-ray spectrometry. We also applied
+  convergent-beam electron diffraction to metamorphic alloy films, to probe
+  both composition and strain.
+  https://doi.org/10.1017/S1431927612013761
+  https://github.com/SPAhrenTech/CBED_fit
+
+* I advised graduate-student research on the synthesis and characterization of
+  metal-loaded electrospun nanofibers for photocatalysis applications.
+
+* Through a collaboration with Vinca Institute, I investigated a broad range
+  of metal and rare-earth oxide nanomaterials.
+  https://www.vin.bg.ac.rs/en/
+
+National Renewable Energy Laboratory, Golden, Colorado
+https://www.nrel.gov/
+National Center for Photovoltaics
+https://www.nrel.gov/pv/research/national-center-for-photovoltaics
+Senior Scientist I (Sep 2001-Jul 2006)
+
+* I identified the optimization criteria of compositional grades used for
+  metamorphic, semiconductor heterostructures with world-record photovoltaic
+  and thermophotovoltaic device efficiencies. Based on experimental
+  investigations, I developed a detailed physical model of the relaxation
+  behavior in the metamorphic grades that enable this technology.
+
+* I designed and constructed a tunable light source to bias tandem solar cells
+  during testing.
+
+* My team studied the recrystallization phase-change kinetics of hydrogenated
+  amorphous Si on glass substrates for low-cost photovoltaic applications.
+  https://www.youtube.com/watch?v=GytujQq_0c8
+
+* I supported the NREL Bioenergy Center by imaging carbon nanotubes and
+  cellulose fibers used as templates for nanoparticle self-assembly.
+
+* I used TEM tomography to elucidate the shapes and configurations of
+  nanoparticles and ensembles.
+
+Scientist II (Aug 1998-Sep 2001)
+
+* I worked closely with colloidal chemists to provide TEM characterization of
+  semiconductor and metal nanoparticles. I supported NREL projects on various
+  renewable-energy materials: CuInSe2, Li:CoO2, VOx, BaSrTiO, and organic
+  hybrids.
+
+* I elucidated the dark-field imaging signatures of antiphase boundaries in
+  ordered materials, and identified unique properties and physical origins of
+  APBs in single-variant GaInAs.
+
+Postdoctoral Scientist (Jan 1995-Aug 1998)
+
+* I supported Basic Energy Sciences projects by using TEM to study ordered
+  domain structures and composition modulation in epitaxial III-V
+  semiconductor alloys and short-period superlattices. We discovered a strong
+  nanowire formation driven by lateral modulation in short-period
+  superlattices.
+
+* I generated theoretical models for TEM image contrast of partially ordered
+  structures and modulated superlattices. I developed dynamical
+  electron-diffraction software routines for experiment simulation and
+  computational analysis of ordered structures.
+
+* I provided TEM analysis of a broad range single- and poly-crystalline
+  thin-film materials, such as YBCO, ZnO, SiN, and Ge.
+
+Graduate Research Assistant (Aug 1991-Dec 1995)
+
+* I enrolled in the Physics Ph.D. program at CU, Boulder, an received GRA
+  support at NREL, to study atomic ordering phenomena in II-VI and III-V
+  epitaxial semiconductor alloys. Spontaneous ordering has potentially useful
+  influences on the optoelectronic properties of these materials. In
+  collaboration with the University of Notre Dame, we discovered a novel form
+  of composition modulation in ZnSe(1-x)Te(x) films that highlighted growth
+  instabilities.
+
+Colorado School of Mines, Golden, Colorado
+https://www.mines.edu/
+Physics Department
+https://physics.mines.edu/
+Graduate Research Assistant (Jan 1989-Aug 1991)
+
+* I used X-ray diffraction to probe structural transitions during water
+  intercalation in layered-silicate minerals. We applied similar methods to
+  the copper-oxide superconductors, for which some forms also exhibit
+  intercalation behavior.
+
+* The software to run the four-circle X-ray diffractometer was limited when I
+  started. I wrote a programmable XRD data acquisition/analysis software
+  package.
+
+CERN, Geneva, Switzerland
+https://home.cern/
+NA36 Experiment
+Summer Student  (June-Aug., 1987)
+
+* I assisted with installation of a time-projection chamber used in an SPS
+  collider experiment.
+
+* I procured and installed FASTBUS data-acquisition electronics, and wrote a
+  test program.
+
+Courses Instructed
+
+SDSMT (2006-2021)
+
+* NANO 703/703L-Instrumentation for Characterization of Nanomaterials (3/1
+  cr): FA(06-16)
+  https://spahrentech.com/notes/TEM
+
+* NANO 704-Crystallography and Structure of Nanomaterials (3 cr): SP(07, 09,
+  11, 13, 16)
+  https://spahrentech.com/notes/Crystallography
+
+* NANO 705-Nanoelectronic Materials (3 cr): SP(09, 14, 17, 20)
+  https://spahrentech.com/notes/Nanoelectronics
+
+* NANO 708-Nanomaterials for Photovoltaics (3 cr): SP(08, 12, 15, 18)
+  https://spahrentech.com/notes/Photovoltaics
+
+* NANO 401-Introduction to Nanoscience (3 cr): SP11
+
+* NANO 701-Nanomaterials (3 cr): SP10
+
+* NANO 702-Theory and Applications of Nanomaterials (3 cr): FA19
+
+* NANO 791-Ordered Semiconductors for Optoelectronics (1 cr): FA18
+  https://spahrentech.com/notes/SelectedTopics/OrdStrucFac
+
+* NANO 791-MOCVD (1 cr): FA10
+
+* NANO 792-Defects in Nanomaterials (3 cr): SP20
+  https://spahrentech.com/notes/SelectedTopics/StrainRelax
+
+Front Range Community College
+www.frontrange.edu/
+
+* PHY 211-Calculus-Based Physics I (5 cr): FA05
+
+* PHY 212-Calculus-Based Physics II (5 cr): SP(00, 01, 04)
+
+Community College of Denver
+https://www.ccd.edu/
+
+* PHY 105-Conceptual Physics (3 cr): SP91, FA91, FA94
+
+Special Skills and Training
+
+* Advanced transmission electron imaging and diffraction of electronic
+  materials.
+
+* Cryo-ultramicrotome preparation and electron tomography of biomaterials.
+
+* X-ray diffraction of nanoparticles and thin films.
+
+* Dislocations and strain-relaxation analysis of epitaxial layers.
+
+* Materials and device engineering and characterization.
+
+* Semiconductor crystal growth.
+
+* Vacuum system design and maintenance.
+
+* Scientific computer programming (C++, Objective C, Swift, MatLab, LabView,
+  Igor, Digital Micrograph, Python); IDEs: VSCode, Xcode, CLion
+
+* Experiment automation; digital image processing; computational analysis and
+  simulation.
+
+* Machine Learning
+  https://coursera.org/share/c12e7c183acbf1d42d4046c234182877
+  Supervised Learning
+  https://coursera.org/share/90e9b016b5b4188067f3e86d2fcf29a2
+  Unsupervised Learning
+  https://coursera.org/share/b298af8a86247b665eeb784df30e3e02
+
+* Mac OS, Windows, Linux.
+
+* Technical writing proficiency.
+
+* Graduate and undergraduate teaching.
+
+Professional Memberships
+
+* American Physical Society
+  https://www.aps.org/
+
+* Microscopy Society of America
+  https://microscopy.org/
+
+* Materials Research Society
+  https://www.mrs.org/
+
+Grants Awarded
+
+* U.S. Dept. of Energy, "Non-equilibrium synthesis of epitaxial semiconductors
+  for energy applications", Award DE-SC0019430, 2018, $750K.
+  https://www.energy.gov/sites/prod/files/2019/02/f59/ahrenkiel_poster_ssl-rd2019.pdf
+
+* U.S. Dept. of Energy, "Aluminum epilayers for controlled growth and
+  processing of high-efficiency, low-cost III-V solar cells", Award
+  DE-EE0007363, 2016, $205K.
+  https://www.energy.gov/eere/solar/project-profile-south-dakota-school-mines-and-technology-pvrd-sips
+
+* U.S. Dept. of Energy, "High-Efficiency, Inexpensive Thin Film III-V
+  Photovoltaics using Single-Crystalline Like, Flexible Substrates", 2014,
+  Univ. of Houston, ($400K-SDSMT).
+
+* U.S. Nat'l. Science Foundation, "MRI: Acquisition of a Modern Transmission
+  Electron Microscope for Research and Training in South Dakota", Award
+  CBET-0923483, 2009, $699K.
+  https://www.nsf.gov/awardsearch/show-award?AWD_ID=0923483
+
+* U.S. Dept. of Energy, "Lattice-Mismatched III-V Epilayers for
+  High-Efficiency Photovoltaics", 2007, $450K.
+
+* State of South Dakota, Governor's 2010 Individual Research Seed Grant
+  Program, "Growth Kinetics During Recrystallization of Amorphous Silicon",
+  2008, $23,888.
+
+* SDSMT Council of Graduate Education, Nelson Research Grant, "Structural
+  Characterization of Carbon and Ceramic Nanofibers", 2008, $5000.
+
+* NREL Director's Discretionary Research Fund, "Shape and Crystallography of
+  III-V Semiconductor and Metal Nanoparticles", 2004, $120K.
+
+Book
+
+* Richard K Ahrenkiel and S Phil Ahrenkiel, Theory and methods of photovoltaic
+  material characterization, WORLD SCIENTIFIC, 2019.
+  https://doi.org/10.1142/11179
+
+Book Chapter
+
+* S. P. Ahrenkiel, "Diffraction and imaging of ordered semiconductors", in A.
+  Mascarenhas (Ed.), Spontaneous ordering in semiconductor alloys, Kluwer
+  Academic, 2002, pp. 195-233.
+  https://doi.org/10.1007/978-1-4615-0631-7_7
+
+Inventions
+
+* Kirstin Alberi, Christopher Leo STENDER, and Scott Phillip AHRENKIEL,
+  "Patent application: Strain balanced direct bandgap aluminum indium phosphide
+  quantum wells for light emitting diodes", (2022).
+  https://patents.google.com/patent/US20220271194A1/en?oq=US20220271194
+
+* Phil Ahrenkiel and Nathan Smaglik, "Invention disclosure: Plasma-enhanced
+  metalorganic chemical vapor deposition of aluminum", (2017).
+
+* Phil Ahrenkiel and Srujan Mishra, "Invention disclosure: Modified
+  electrospinning process for controlled deposition of nanofibers by focused
+  electric field", (2013).
+
+* Mark W. Wanlass and S. Phillip Ahrenkiel, "Patent application: Method for
+  achieving device-quality, lattice-mismatched, heteroepitaxial active layers",
+  (2006) 1-12.
+  https://patents.google.com/patent/US20060048700A1/en?oq=US20060048700A1
+

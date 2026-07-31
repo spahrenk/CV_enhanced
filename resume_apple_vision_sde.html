@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scott Phillip Ahrenkiel - Sr. Software Development Engineer</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            background-color: white;
+            padding: 50px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+
+        h1 { font-size: 2.5em; color: #2c3e50; margin-bottom: 10px; }
+        .title { font-size: 1.3em; color: #555; font-weight: 600; margin-bottom: 20px; }
+
+        .contact-info { margin-bottom: 30px; line-height: 1.8; }
+        .contact-info p { margin: 5px 0; }
+        .contact-info a { color: #3498db; text-decoration: none; }
+        .contact-info a:hover { text-decoration: underline; }
+
+        hr { border: none; border-top: 2px solid #e0e0e0; margin: 30px 0; }
+
+        h2 {
+            font-size: 1.8em; color: #2c3e50; margin-bottom: 15px;
+            border-bottom: 3px solid #3498db; padding-bottom: 5px;
+        }
+
+        h3 { font-size: 1.3em; color: #2c3e50; margin-top: 20px; margin-bottom: 5px; }
+        .date { font-style: italic; color: #777; font-size: 0.95em; }
+
+        p { margin-bottom: 15px; }
+        ul { margin-left: 20px; margin-bottom: 15px; }
+        li { margin-bottom: 10px; }
+        strong { color: #2c3e50; }
+        .section { margin-bottom: 35px; }
+
+        @media print {
+            body { background-color: white; padding: 0; }
+            .container { box-shadow: none; padding: 20px; }
+        }
+        @media (max-width: 768px) {
+            .container { padding: 30px 20px; }
+            h1 { font-size: 2em; }
+            h2 { font-size: 1.5em; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <header>
+        <h1>Scott Phillip Ahrenkiel</h1>
+        <div class="title">Sr. Software Development Engineer</div>
+        <div class="contact-info">
+            <p><strong>Location:</strong> Arvada, Colorado 80005 (Denver Metro)</p>
+            <p><strong>Phone:</strong> 720-988-6627</p>
+            <p><strong>Email:</strong> <a href="mailto:spahrenk@gmail.com">spahrenk@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/phil-ahrenkiel-04b5b36" target="_blank">www.linkedin.com/in/phil-ahrenkiel-04b5b36</a></p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/orgs/eQuillTech/repositories" target="_blank">github.com/orgs/eQuillTech/repositories</a></p>
+        </div>
+    </header>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Summary</h2>
+        <p>Software engineer and computational physicist with a Ph.D. and extensive experience developing performance-critical, systems-level software in C++, Objective-C, and Swift. Background in real-time hardware control systems, safety-critical software verification, and hardware-software interface design. Currently developing an iOS application (Swift, UIKit, CoreData) with a compiled C++ physics backend. Experienced working across the full stack from hardware integration and low-level driver work to user-facing application development on Apple platforms.</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Technical Skills</h2>
+        <p><strong>Languages:</strong> C++ (extensive, production-level), Swift, Objective-C, Python, Rust</p>
+        <p><strong>Apple Platforms:</strong> iOS (UIKit, CoreData, Foundation, Swift Package Manager), macOS; Xcode, Instruments, lldb</p>
+        <p><strong>Systems Programming:</strong> Hardware-software interfaces, real-time control loops, driver integration, inter-process data pipelines, concurrent state management</p>
+        <p><strong>Performance Engineering:</strong> Latency-sensitive algorithm design, memory management, profiling and optimization, numerical efficiency</p>
+        <p><strong>Safety-Critical Systems:</strong> Hardware interlock design, compliance verification, test coverage for regulated software (100+ unit/function tests)</p>
+        <p><strong>Tools:</strong> Git/GitHub, VSCode, CLion, Xcode, JIRA; macOS, Linux, Windows</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Experience</h2>
+
+        <h3>Physicist/Programmer — iOS &amp; Systems Developer</h3>
+        <p><strong>eQuillTech, Arvada, Colorado</strong> | <span class="date">October 2025 – Present</span></p>
+        <ul>
+            <li><strong>III-V Calc (iOS, Swift/C++):</strong> Designing and developing a full-featured iOS application for compound semiconductor physics calculations. Architecture includes a UIKit-based navigation hierarchy, CoreData persistence layer for user-defined solver configurations, and a high-performance C++ computational backend bridged to Swift. Implements multi-parameter solver state management across complex view hierarchies with low-latency user interaction. Planned App Store release June 2026.</li>
+            <li>Profiling with Instruments for memory usage, CPU time, and rendering performance</li>
+            <li>Maintaining open-source supporting libraries on GitHub</li>
+        </ul>
+
+        <h3>Computational Scientist</h3>
+        <p><strong>Big Ladder Software, Denver, Colorado</strong> | <span class="date">June 2023 – October 2025</span></p>
+        <ul>
+            <li><strong>HPWHsim (C++):</strong> Lead developer for a production physics simulation library with strict correctness and performance requirements, used in regulatory compliance calculations. Refactored a large legacy codebase for maintainability, implemented JSON-based external model integration, and maintained 100+ unit/function tests.
+                (<a href="https://github.com/bigladder/HPWHsim" target="_blank">github.com/bigladder/HPWHsim</a>)</li>
+            <li><strong>Physical Units Library (C++):</strong> Designed a header-only library using template metaprogramming for compile-time dimensional analysis — type-safe unit management with zero runtime overhead.
+                (<a href="https://github.com/eQuillTech/unity" target="_blank">github.com/eQuillTech/unity</a>)</li>
+            <li><strong>btwxt interpolation library (C++):</strong> Formalized evaluation and generated documentation for a performance-critical multi-dimensional interpolation library used in simulation inner loops.</li>
+            <li>Built Python/Plotly Dash analysis applications for real-time simulation parameter exploration and model validation</li>
+        </ul>
+
+        <h3>Software Engineer</h3>
+        <p><strong>Maptek, Golden, Colorado</strong> | <span class="date">April 2022 – February 2023</span></p>
+        <ul>
+            <li>Maintained and enhanced Vulcan, a large commercial C++ application handling complex 3D geometry and large spatial datasets, using Mercurial and JIRA-based code review</li>
+            <li>Developed a performance-critical C++ algorithm for generating variable-resolution topographic triangulations from large geo-tagged TIFF rasters — optimizing mesh quality and memory usage under real-world data volume constraints</li>
+            <li>Extended libTIFF driver to handle a new data format; wrote unit tests and fixed production defects</li>
+        </ul>
+
+        <h3>Professor (Assistant / Associate / Full)</h3>
+        <p><strong>South Dakota School of Mines and Technology, Rapid City, SD</strong> | <span class="date">August 2006 – July 2021</span></p>
+        <ul>
+            <li><strong>MOCVD real-time control system (C++/LabVIEW):</strong> Built a safety-critical, real-time control system for a metalorganic chemical vapor deposition reactor handling toxic and flammable precursors. Implemented hardware interlocks, sensor integration (mass flow controllers, pressure transducers, thermocouples), concurrent state management, and an emergency shutdown sequencer. System operated continuously for over a decade of student research.
+                (<a href="https://github.com/SPAhrenTech/MOCVD_Lib" target="_blank">github.com/SPAhrenTech/MOCVD_Lib</a>)</li>
+            <li><strong>TEM automation (Objective-C/Digital Micrograph):</strong> Developed a script manager and plug-ins for the JEOL JEM-2100 transmission electron microscope, including real-time stage control, automated image acquisition sequences, and data archiving. Implemented timing-sensitive acquisition workflows requiring precise hardware synchronization.
+                (<a href="https://github.com/eQuillTech/DM_Scripts" target="_blank">github.com/eQuillTech/DM_Scripts</a>)</li>
+            <li>Developed PrecDiffFit and CBED_fit — C++/Python tools for performance-critical nonlinear optimization of multi-parameter physical models against large experimental datasets</li>
+        </ul>
+
+        <h3>Senior Scientist I / Scientist II / Postdoctoral Scientist</h3>
+        <p><strong>National Renewable Energy Laboratory (NREL), Golden, Colorado</strong> | <span class="date">January 1995 – July 2006</span></p>
+        <ul>
+            <li>Developed dynamical electron-diffraction simulation software in C++ implementing quantum-mechanical wave propagation — performance-critical matrix propagation code requiring careful memory layout and numerical precision management</li>
+            <li>Designed and constructed custom optical instrumentation with real-time hardware control and data acquisition</li>
+            <li>Applied computational image processing to large multi-dimensional experimental datasets with strict latency requirements for interactive analysis</li>
+        </ul>
+
+        <h3>Graduate Research Assistant</h3>
+        <p><strong>Colorado School of Mines, Golden, Colorado</strong> | <span class="date">January 1989 – August 1991</span></p>
+        <ul>
+            <li>Wrote complete real-time data acquisition and instrument control software for a four-circle X-ray diffractometer, including hardware driver integration and live data display</li>
+        </ul>
+
+        <h3>Summer Student — NA36 Experiment</h3>
+        <p><strong>CERN, Geneva, Switzerland</strong> | <span class="date">June – August 1987</span></p>
+        <ul>
+            <li>Installed and validated FASTBUS data-acquisition electronics for an SPS collider detector; wrote test software for hardware validation</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Education</h2>
+
+        <h3>Ph.D., Physics</h3>
+        <p><strong>University of Colorado, Boulder, Colorado</strong> | <span class="date">Completed December 1995</span><br>
+        Dissertation: Phase Separation and Atomic Ordering in Epitaxial Semiconductor Alloys Studied by Transmission Electron Microscopy</p>
+
+        <h3>M.S., Physics</h3>
+        <p><strong>Colorado School of Mines, Golden, Colorado</strong> | <span class="date">Completed December 1991</span></p>
+
+        <h3>B.S., Engineering Physics</h3>
+        <p><strong>University of Colorado, Boulder, Colorado</strong> | <span class="date">Completed December 1987</span></p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Publications &amp; Patents</h2>
+        <p>100+ peer-reviewed publications in physics, materials science, and photovoltaics. Co-author, <em>Theory and Methods of Photovoltaic Material Characterization</em>, World Scientific, 2019. Patents: US20220271194A1, US20060048700A1.</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Certifications</h2>
+        <ul>
+            <li>Machine Learning Specialization (Stanford/Coursera, 2024)</li>
+            <li>Supervised Machine Learning (Stanford/Coursera, 2024)</li>
+            <li>Unsupervised Learning (Stanford/Coursera, 2024)</li>
+        </ul>
+    </section>
+
+</div>
+</body>
+</html>

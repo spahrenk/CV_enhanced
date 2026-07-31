@@ -1,0 +1,21 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+Northern Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Senior Software Engineer – LabVIEW Specialist position. My background in LabVIEW-based instrument control, hardware integration, and data acquisition systems in scientific research environments aligns well with the technical requirements of this role.
+
+My most relevant experience is the MOCVD process control system I built and maintained for over a decade at South Dakota School of Mines. This involved developing a LabVIEW application integrating mass flow controllers, pressure transducers, thermocouple arrays, and pneumatic valves into a real-time control and monitoring interface, with safety interlock logic for toxic gas management. The system ran continuously across hundreds of deposition experiments and required ongoing hardware customization and software maintenance. Earlier in my career, I developed a complete LabVIEW data acquisition and control package for a four-circle X-ray diffractometer at Colorado School of Mines, and later built custom optical test instrumentation at the National Renewable Energy Laboratory.
+
+Beyond LabVIEW, I bring proficiency in Python, C++, and MATLAB, along with production software development experience from industry roles at Big Ladder Software and Maptek.
+
+I have a Ph.D. in Physics, strong technical writing skills, and a track record of building reliable instrument control systems from the ground up. I would welcome the opportunity to discuss the role further.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel

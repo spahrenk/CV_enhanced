@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scott Phillip Ahrenkiel - Software Engineer/Programmer</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            background-color: white;
+            padding: 50px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+
+        h1 { font-size: 2.5em; color: #2c3e50; margin-bottom: 10px; }
+        .title { font-size: 1.3em; color: #555; font-weight: 600; margin-bottom: 20px; }
+
+        .contact-info { margin-bottom: 30px; line-height: 1.8; }
+        .contact-info p { margin: 5px 0; }
+        .contact-info a { color: #3498db; text-decoration: none; }
+        .contact-info a:hover { text-decoration: underline; }
+
+        hr { border: none; border-top: 2px solid #e0e0e0; margin: 30px 0; }
+
+        h2 {
+            font-size: 1.8em; color: #2c3e50; margin-bottom: 15px;
+            border-bottom: 3px solid #3498db; padding-bottom: 5px;
+        }
+
+        h3 { font-size: 1.3em; color: #2c3e50; margin-top: 20px; margin-bottom: 5px; }
+        .date { font-style: italic; color: #777; font-size: 0.95em; }
+
+        p { margin-bottom: 15px; }
+        ul { margin-left: 20px; margin-bottom: 15px; }
+        li { margin-bottom: 10px; }
+        strong { color: #2c3e50; }
+        .section { margin-bottom: 35px; }
+
+        @media print {
+            body { background-color: white; padding: 0; }
+            .container { box-shadow: none; padding: 20px; }
+        }
+        @media (max-width: 768px) {
+            .container { padding: 30px 20px; }
+            h1 { font-size: 2em; }
+            h2 { font-size: 1.5em; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <header>
+        <h1>Scott Phillip Ahrenkiel</h1>
+        <div class="title">Software Engineer / Scientific Programmer</div>
+        <div class="contact-info">
+            <p><strong>Location:</strong> Arvada, Colorado 80005</p>
+            <p><strong>Phone:</strong> 720-988-6627</p>
+            <p><strong>Email:</strong> <a href="mailto:spahrenk@gmail.com">spahrenk@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/phil-ahrenkiel-04b5b36" target="_blank">www.linkedin.com/in/phil-ahrenkiel-04b5b36</a></p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/orgs/eQuillTech/repositories" target="_blank">github.com/orgs/eQuillTech/repositories</a></p>
+        </div>
+    </header>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Summary</h2>
+        <p>Software engineer and computational physicist with a Ph.D. and extensive experience developing scientific data processing pipelines, simulation libraries, and analysis tools in C++ and Python. Proven ability to collaborate closely with scientists to build robust, well-tested software that integrates into larger processing systems. Strong background in scientific data formats (HDF5, JSON, XML), graphical data visualization (Plotly Dash), unit and integration testing, and version control (Git/GitHub). Experienced communicating technical work across scientific and engineering teams through publications, presentations, and documentation.</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Technical Skills</h2>
+        <p><strong>OOP Language:</strong> C++ — production libraries, API design, template metaprogramming, legacy refactoring, makefiles and build systems</p>
+        <p><strong>Scripting Language:</strong> Python — NumPy, SciPy, Pandas, Plotly Dash; data pipeline scripting, analysis automation, GUI development</p>
+        <p><strong>Systems:</strong> macOS (primary), Linux (Ubuntu — cross-platform development target at Big Ladder Software), Windows</p>
+        <p><strong>Scientific Data Formats:</strong> HDF5, JSON, XML, SQL — ingestion, transformation, metadata management, database integration</p>
+        <p><strong>Data Visualization:</strong> Plotly Dash (interactive web-based GUIs), MATLAB, Igor Pro, Digital Micrograph</p>
+        <p><strong>Testing:</strong> Unit testing, integration testing, test plan design, failure mode analysis, automated test tools</p>
+        <p><strong>Version Control:</strong> Git/GitHub (primary), Mercurial/SVN</p>
+        <p><strong>Additional Languages:</strong> MATLAB, LabVIEW, Rust, Objective-C, Swift</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Experience</h2>
+
+        <h3>Physicist/Programmer</h3>
+        <p><strong>eQuillTech, Arvada, Colorado</strong> | <span class="date">October 2025 – Present</span></p>
+        <ul>
+            <li>Develop physics-based software and scientific computing tools in Python and C++ on Linux/macOS</li>
+            <li>Maintain open-source scientific repositories on GitHub</li>
+        </ul>
+
+        <h3>AI Trainer</h3>
+        <p><strong>Mercor, Remote</strong> | <span class="date">February 2026 – Present</span></p>
+        <ul>
+            <li>Evaluate AI-generated scientific content for accuracy and logical soundness; design physics problems for LLM training</li>
+        </ul>
+
+        <h3>Computational Scientist</h3>
+        <p><strong>Big Ladder Software, Denver, Colorado</strong> | <span class="date">June 2023 – October 2025</span></p>
+        <ul>
+            <li><strong>HPWHsim — scientific data processing library (C++):</strong> Lead developer for a production simulation library used in California Energy Commission compliance calculations. The library accepts manufacturer model data (JSON), processes it through a coupled thermal physics simulation, and produces validated higher-level output — structurally analogous to a satellite data processing pipeline. Maintained 100+ unit and function tests; implemented predictable failure modes and exit codes for integration into a larger processing system.
+                (<a href="https://github.com/bigladder/HPWHsim" target="_blank">github.com/bigladder/HPWHsim</a>)</li>
+            <li><strong>Data visualization GUI (Python/Plotly Dash):</strong> Independently designed and built interactive graphical analysis applications for multi-parameter simulation validation — providing scientists with real-time displays of simulation outputs at timescales useful for debugging and model refinement.</li>
+            <li><strong>SQL data pipeline (Python):</strong> Developed library for extracting and transforming structured data from legacy Access databases via SQL, enabling integration into modern workflows.</li>
+            <li><strong>Physical Units Library (C++):</strong> Designed header-only library using template metaprogramming for compile-time dimensional analysis and metadata-aware unit management.
+                (<a href="https://github.com/eQuillTech/unity" target="_blank">github.com/eQuillTech/unity</a>)</li>
+            <li><strong>btwxt interpolation library (C++):</strong> Formalized evaluation methods and generated documentation for a production multi-dimensional interpolation library integrated into simulation workflows.
+                (<a href="https://github.com/bigladder/btwxt" target="_blank">github.com/bigladder/btwxt</a>)</li>
+        </ul>
+
+        <h3>Software Engineer</h3>
+        <p><strong>Maptek, Golden, Colorado</strong> | <span class="date">April 2022 – February 2023</span></p>
+        <ul>
+            <li>Maintained and enhanced Vulcan commercial C++ software on Linux/Windows using Mercurial and JIRA-based code review</li>
+            <li>Developed novel algorithm for processing and triangulating large geo-tagged TIFF raster datasets; extended the libTIFF driver and wrote unit tests</li>
+        </ul>
+
+        <h3>Professor (Assistant / Associate / Full)</h3>
+        <p><strong>South Dakota School of Mines and Technology, Rapid City, SD</strong> | <span class="date">August 2006 – July 2021</span></p>
+        <ul>
+            <li><strong>Scientific data acquisition pipeline:</strong> Developed Digital Micrograph scripting infrastructure (Python-like scripting language) for automated TEM image acquisition, calibration, spatial metadata annotation, and archiving — a multi-step data processing pipeline producing validated higher-level image products from raw detector data.
+                (<a href="https://github.com/eQuillTech/DM_Scripts" target="_blank">github.com/eQuillTech/DM_Scripts</a>)</li>
+            <li><strong>PrecDiffFit — data processing and fitting pipeline:</strong> Developed Python/C++ software accepting experimental diffraction datasets (HDF5/binary), applying nonlinear optimization to produce higher-level structural parameters, with automated quality verification.
+                (<a href="https://github.com/eQuillTech/PrecDiffFit" target="_blank">github.com/eQuillTech/PrecDiffFit</a>)</li>
+            <li><strong>CBED_fit:</strong> Multi-parameter nonlinear fitting pipeline for extracting composition and strain data from electron diffraction patterns.
+                (<a href="https://github.com/eQuillTech/CBED_fit" target="_blank">github.com/eQuillTech/CBED_fit</a>)</li>
+            <li><strong>MOCVD control system (LabVIEW/C++):</strong> Built programmable instrument control software integrating real-time sensor data acquisition, process control, data logging, and safety protocols — a long-running, event-driven scientific data pipeline.
+                (<a href="https://github.com/SPAhrenTech/MOCVD_Lib" target="_blank">github.com/SPAhrenTech/MOCVD_Lib</a>)</li>
+            <li>Collaborated closely with graduate students and research scientists; communicated technical details in regular group meetings and publications</li>
+        </ul>
+
+        <h3>Senior Scientist I / Scientist II / Postdoctoral Scientist</h3>
+        <p><strong>National Renewable Energy Laboratory (NREL), Golden, Colorado</strong> | <span class="date">January 1995 – July 2006</span></p>
+        <ul>
+            <li>Developed dynamical electron-diffraction simulation software in C++ implementing quantum-mechanical wave propagation; produced validated higher-level structural data products from raw input</li>
+            <li>Built physical models for semiconductor heterostructures and photovoltaic devices; worked collaboratively with experimental and device-engineering teams</li>
+            <li>Applied optical physics, spectroscopy, and light-matter interaction to solar energy materials — foundational to understanding atmospheric radiative transfer processes</li>
+            <li>Published results in 100+ peer-reviewed journal articles; presented at international conferences</li>
+        </ul>
+
+        <h3>Graduate Research Assistant</h3>
+        <p><strong>Colorado School of Mines, Golden, Colorado</strong> | <span class="date">January 1989 – August 1991</span></p>
+        <ul>
+            <li>Wrote complete data acquisition and control software for a four-circle X-ray diffractometer, including automated parametric scans, real-time data display, and structured data output with metadata</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Education</h2>
+
+        <h3>Ph.D., Physics</h3>
+        <p><strong>University of Colorado, Boulder, Colorado</strong> | <span class="date">Completed December 1995</span><br>
+        Dissertation: Phase Separation and Atomic Ordering in Epitaxial Semiconductor Alloys Studied by Transmission Electron Microscopy</p>
+
+        <h3>M.S., Physics</h3>
+        <p><strong>Colorado School of Mines, Golden, Colorado</strong> | <span class="date">Completed December 1991</span></p>
+
+        <h3>B.S., Engineering Physics</h3>
+        <p><strong>University of Colorado, Boulder, Colorado</strong> | <span class="date">Completed December 1987</span></p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Publications &amp; Book</h2>
+        <p>100+ peer-reviewed publications in physics, materials science, optics, and photovoltaics. Co-author, <em>Theory and Methods of Photovoltaic Material Characterization</em>, World Scientific, 2019. (Google Scholar profile available)</p>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Certifications</h2>
+        <ul>
+            <li>Machine Learning Specialization (Stanford/Coursera, 2024)</li>
+            <li>Supervised Machine Learning (Stanford/Coursera, 2024)</li>
+            <li>Unsupervised Learning (Stanford/Coursera, 2024)</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section class="section">
+        <h2>Professional Memberships</h2>
+        <ul>
+            <li>American Physical Society</li>
+            <li>Microscopy Society of America</li>
+            <li>Materials Research Society</li>
+        </ul>
+    </section>
+
+</div>
+</body>
+</html>

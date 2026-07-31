@@ -4,6 +4,8 @@
 address: Arvada, Colorado 80005  
 cell: 720-988-6627  
 e-mail: spahrenk@gmail.com
+linkedin: linkedin.com/in/phil-ahrenkiel-04b5b36
+github: github.com/orgs/eQuillTech/repositories
 
 **Education**
 
@@ -17,17 +19,21 @@ Completed Dec. 1987	*B. S., Engineering Physics*, ***[University of Colorado](ht
 
 **Employment**
 
+***[Mercor](https://www.mercor.com/), remote***  
+AI Trainer (Feb. 2026)
+* I created training data for large language models (LLMs) by formulating, testing, and refining complex physics problems.
+
 ***[eQuillTech](https://equilltech.com/), Arvada, Colorado***  
 Physicist/Programmer (Oct 2025-present)
 
-* I develop physics-based [software](https://github.com/orgs/SPAhrenTech/repositories) inspired by my research interests and entertainment.
+* I develop physics-based [software](https://github.com/orgs/eQuillTech/repositories) inspired by my research interests and entertainment. *III-V Calc* for iOS [released](https://apps.apple.com/app/iii-v-calc/id6773777307) June, 2026.
 
 ***[Big Ladder Software](https://bigladdersoftware.com/), Denver, Colorado***  
 Computational Scientist (Jun 2023-Oct 2025\)
 
-* My main project was development of a heat-pump-water-heater simulation [library](https://github.com/bigladder/HPWHsim) used for compliance [calculations](https://github.com/cse-sim/cse) by the [California Energy Commission](https://www.energy.ca.gov/). I generalized and restructured large segments of the code, with emphasis on physical rigor, while maintaining hundreds of unit and function tests. I implemented a formal data representation to allow external entry of manufacturer models as JSON. I added independently an interactive suite of graphical analysis apps using [Plotly Dash](https://plotly.com/), used to refine simulation parameters for new manufacturer models, and created a header-only [library](https://github.com/SPAhrenTech/unity) for a physical-units agnostic API.
+* My main project was development of a heat-pump-water-heater simulation [library](https://github.com/bigladder/HPWHsim) used for compliance [calculations](https://github.com/cse-sim/cse) by the [California Energy Commission](https://www.energy.ca.gov/). I generalized and restructured large segments of the code, with emphasis on physical rigor, while maintaining hundreds of unit and function tests. I implemented a formal data representation to allow external entry of manufacturer models as JSON. I added independently an interactive suite of graphical analysis apps using [Plotly Dash](https://plotly.com/), used to refine simulation parameters for new manufacturer models, and created a header-only [library](https://github.com/eQuillTech/unity) for a physical-units agnostic API.
 
-* I created a [data-conversion library](https://github.com/bigladder/CUACToolMiner) for users of the legacy California Utility Allowance Calculator Access databases to extract data via SQL.
+* I created a data-conversion library for users of the legacy California Utility Allowance Calculator (https://bees.noresco.com/cuac.html). Access  databases to extract data via SQL.
 
 * I added a command-line interface and requested features to an [energy-resilience simulation](https://github.com/bigladder/erin) library, used for catastrophic analysis of large-scale installations (e.g., military bases, universities).
 
@@ -40,7 +46,7 @@ Software Engineer (Apr 2022-Feb 2023\)
 
 * I provided maintenance on [Vulcan](https://www.maptek.com/products/vulcan/) software, fixing defects and creating unit tests, using a JIRA-based review system, with Mercurial for version control.
 
-* In response to a user story, I added the ability to import large, [geo-tagged TIFF files](https://www.usgs.gov/global-fiducials-library-data-access-portal/data), by expanding the extant libTIFF driver and developing a novel [algorithm](https://github.com/SPAhrenTech/Topo) to generate optimized, topographical triangulations with variable resolution.
+* In response to a user story, I added the ability to import large, [geo-tagged TIFF files](https://www.usgs.gov/global-fiducials-library-data-access-portal/data), by expanding the extant libTIFF driver and developing a novel [algorithm](https://github.com/eQuillTech/Topo) to generate optimized, topographical triangulations with variable resolution.
 
 ***[Epilog](https://www.epiloglaser.com/), Golden, Colorado***  
 Laser Alignment Technician (Oct 2021-Apr 2022\)
@@ -51,7 +57,7 @@ Laser Alignment Technician (Oct 2021-Apr 2022\)
 *Nanoscience & Nanoengineering Ph.D. Program*  
 Professor (Aug 2017-Jul 2021\)
 
-* My group worked on the optimization of ordered, metamorphic III-V films for red/amber LEDs. We demonstrated ordered/disordered epitaxial homostructures using a plasma-enhanced MOCVD [method](#pemocvd_paper). We measured the [strength of ordering](#precdiff_ord_paper) in these films by a precession-diffraction method, using automated alignment and acquistion. The patterns were refined to [dynamical simulations](https://github.com/SPAhrenTech/PrecDiffFit). 
+* My group worked on the optimization of ordered, metamorphic III-V films for red/amber LEDs. We demonstrated ordered/disordered epitaxial homostructures using a plasma-enhanced MOCVD [method](#pemocvd_paper). We measured the [strength of ordering](#precdiff_ord_paper) in these films by a precession-diffraction method, using automated alignment and acquistion. The patterns were refined to [dynamical simulations](https://github.com/eQuillTech/PrecDiffFit). 
 
 * Using PE-MOCVD, we demonstrated epi-Al films on GaAs substrates and control of order/disorder in III-V alloy epilayers. 
 
@@ -59,7 +65,7 @@ Professor (Aug 2017-Jul 2021\)
 
 * I created additional special-topics [courses](https://spahrentech.com/notes/SelectedTopics/index.html) to meet graduate-research needs.
 
-* I wrote a [Digital Micrograph](https://www.gatan.com/products/tem-analysis/digitalmicrograph-software) [script manager](https://github.com/SPAhrenTech/DM_Scripts) and supporting plug-ins to improve the user experience and facilitate data archiving for the JEM-2100 transmission electron microscope, and to integrate technique automation (e.g., [montaging](https://github.com/SPAhrenTech/DM_Scripts/blob/main/Scripts/Montage.s)).
+* I wrote a [Digital Micrograph](https://www.gatan.com/products/tem-analysis/digitalmicrograph-software) [script manager](https://github.com/eQuillTech/DM_Scripts) and supporting plug-ins to improve the user experience, facilitate data archiving, and integrate advanced camera control and technique automation (e.g., [montaging](https://github.com/eQuillTech/DM_Scripts/blob/main/Scripts/Montage.s)) for the JEM-2100 transmission electron microscope.
 
 * I served on several academic and campus committees, including University Research, Promotion & Tenure, Risk Management, Parking Appeals.
 
@@ -67,7 +73,7 @@ Associate Professor (Aug 2012-Jul 2017\)
 
 * In a DOE partnership [support](#doe_partnership_2018), we developed PE-MOCVD to explore synthesis at far-from-equilibrium conditions. We synthesized high-mobility epi-GaAs [films](#flex_GaAs_paper) on flexible metal substrates, which were proposed for multijunction III-V devices. We confronted the central challenge of defect propagation in these materials with a broad range of innovative growth experiments. 
 
-* We developed a focused-jet electrospinning [method](https://www.youtube.com/watch?v=9JB5l0zkqLs) for controlled synthesis of loaded polymeric nanofibers.
+* We developed a focused-jet electrospinning [method](https://www.youtube.com/watch?v=9JB5l0zkqLs) for controlled synthesis of loaded polymeric nanofibers, using COMSOL simulations for optimization.
 
 Assistant Professor (Aug 2006- Jul 2012\)
 
@@ -77,7 +83,7 @@ Assistant Professor (Aug 2006- Jul 2012\)
 
 * I supported and advised student research through a university/DOE national laboratory [partnership](#doe_partnership_2007). We modified a home-built metalorganic chemical vapor deposition system to synthesize epitaxial films of III-V compound semiconductors engineered for multi-junction photovoltaics. For over a decade, the MOCVD system was used for student research and external collaboration, with extensive hardware and [software](https://github.com/SPAhrenTech/MOCVD_Lib) customization. The inherint risks of MOCVD demanded attention to safety protocols and development of a hazard communication [system](https://github.com/SPAhrenTech/TGM_online).
 
-* We developed a computational method to extract alloy [compositions](https://doi.org/10.1017/S1431927612013761) of alloy films from energy-dispersive X-ray spectrometry. We also applied convergent-beam electron [diffraction](https://github.com/SPAhrenTech/CBED_fit) to metamorphic alloy films, to probe both composition and strain.
+* We developed a computational method to extract alloy [compositions](https://doi.org/10.1017/S1431927612013761) of alloy films from energy-dispersive X-ray spectrometry. We also applied convergent-beam electron [diffraction](https://github.com/eQuillTech/CBED_fit) to metamorphic alloy films, to probe both composition and strain.
 
 * I advised graduate-student research on the synthesis and characterization of metal-loaded electrospun nanofibers for [photocatalysis](#electrospin_paper) applications.
 
@@ -182,11 +188,17 @@ Summer Student  (June-Aug., 1987\)
 
 * Vacuum system design and maintenance.
 
-* Scientific computer programming (C++, Objective C, Swift, MatLab, LabView, Igor, Digital Micrograph, Python); IDEs: VSCode, Xcode, CLion
+* Scientific computer programming (C++, Objective C, Swift, MatLab, LabView, Igor, Digital Micrograph, Python, Rust); IDEs: VSCode, Xcode, CLion.
+
+* Building energy-efficiency modeling (EnergyPlus, CSE, SketchUp).
 
 * Experiment automation; digital image processing; computational analysis and simulation.
 
+* C++ project architecture; CMake.
+
 * [Machine Learning](https://coursera.org/share/c12e7c183acbf1d42d4046c234182877), [Supervised Learning](https://coursera.org/share/90e9b016b5b4188067f3e86d2fcf29a2), [Unsupervised Learning](https://coursera.org/share/b298af8a86247b665eeb784df30e3e02)
+
+* [Practical Quantum Computing with IBM Qiskit for Beginners](https://www.linkedin.com/jobs/view/4434433494)
 
 * Mac OS, Windows, Linux.
 

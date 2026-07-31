@@ -1,0 +1,24 @@
+Scott Phillip Ahrenkiel
+Arvada, Colorado 80005
+720-988-6627
+spahrenk@gmail.com
+
+Hiring Manager
+Atom Computing
+Boulder, Colorado
+
+Dear Hiring Manager,
+
+I am writing to apply for the Quantum Engineer position at Atom Computing. My background in precision optical instrumentation, quantum mechanical modeling, and scientific instrument automation is relevant to the challenges of developing and operating neutral-atom quantum computers.
+
+My Ph.D. in Physics from the University of Colorado provided deep grounding in quantum mechanics, including the treatment of multi-level atomic systems, coherence, and the quantum mechanics of scattering and diffraction — foundations that transfer directly to understanding atom trapping, coherent control, and quantum state characterization. While my experimental career has focused on electron-optical and X-ray systems rather than cold atoms, the instrumentation challenges are closely related: precision optical alignment, vacuum system operation, electromagnetic field control, and automated data acquisition under stringent stability requirements.
+
+At the National Renewable Energy Laboratory, I designed and constructed a tunable light source for spectrally resolved solar cell characterization — requiring careful control of optical power, wavelength, and spatial uniformity across a broad spectral range. At South Dakota School of Mines, I operated and maintained a JEOL JEM-2100 high-resolution TEM, a precision instrument that demands exact alignment of electron-optical elements, stable vacuum conditions, and careful electromagnetic lens control. I wrote automation software (Digital Micrograph scripts and plug-ins) for data acquisition, calibration, and montaging. At Epilog Laser, I performed precision CO₂ laser alignment and calibration in a production environment, developing systematic troubleshooting skills directly applicable to maintaining laser-based trapping systems.
+
+I am proficient in Python (NumPy, SciPy, Pandas) and use Git for version control, and I have extensive experience writing instrument control software in LabVIEW and C++. I have collaborated closely with experimental and engineering teams throughout my career and communicate technical work through 100+ peer-reviewed publications and regular presentations.
+
+I do not have direct cold-atom or quantum computing experience, and I want to be straightforward about that. What I bring is strong foundational physics, deep hands-on instrumentation experience across optical, vacuum, and electronic systems, and a track record of learning and deploying new experimental techniques quickly. I would welcome the opportunity to discuss whether my background is a fit for your team.
+
+Sincerely,
+
+Scott Phillip Ahrenkiel
